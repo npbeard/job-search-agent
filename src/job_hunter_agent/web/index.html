@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Job Hunter Dashboard</title>
+    <link rel="stylesheet" href="/static/styles.css">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="hero">
+        <div>
+          <p class="eyebrow">Job Search Agent</p>
+          <h1>Rank roles, contacts, and outreach in one place.</h1>
+          <p class="hero-copy">
+            Load your profile, shortlist jobs, and referral targets without hopping between scripts.
+          </p>
+        </div>
+        <form id="source-form" class="source-panel">
+          <label>
+            <span>Profile JSON</span>
+            <input id="profile-input" name="profile" type="text">
+          </label>
+          <label>
+            <span>Jobs JSON</span>
+            <input id="jobs-input" name="jobs" type="text">
+          </label>
+          <label>
+            <span>Contacts JSON/CSV</span>
+            <input id="contacts-input" name="contacts" type="text">
+          </label>
+          <button type="submit">Refresh</button>
+          <button id="market-refresh-button" type="button" class="secondary-button">Refresh Market Data</button>
+        </form>
+      </section>
+
+      <section id="status-bar" class="status-bar"></section>
+
+      <section id="summary-grid" class="summary-grid"></section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <div>
+            <p class="eyebrow">Jobs</p>
+            <h2>Ranked opportunities</h2>
+          </div>
+          <div class="job-filters">
+            <label>
+              <span>Company</span>
+              <select id="company-filter">
+                <option value="all">All companies</option>
+              </select>
+            </label>
+            <label>
+              <span>Min score</span>
+              <input id="score-filter" type="range" min="0" max="1" step="0.05" value="0.6">
+            </label>
+            <span id="score-filter-value" class="pill">0.60+</span>
+          </div>
+        </div>
+        <div id="jobs-list" class="job-list"></div>
+      </section>
+
+      <section class="panel two-col">
+        <div>
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Referral Search</p>
+              <h2>Best LinkedIn searches</h2>
+            </div>
+          </div>
+          <div id="searches-list" class="contact-list"></div>
+        </div>
+
+        <div>
+          <div class="panel-header">
+            <div>
+              <p class="eyebrow">Outreach</p>
+              <h2>Drafts worth sending</h2>
+            </div>
+          </div>
+          <div id="drafts-list" class="draft-list"></div>
+        </div>
+      </section>
+    </main>
+    <script src="/static/app.js"></script>
+  </body>
+  </html>

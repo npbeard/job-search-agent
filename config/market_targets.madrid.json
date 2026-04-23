@@ -1,0 +1,42 @@
+{
+  "name": "madrid-spain-remote-product-engineering",
+  "notes": "Target companies and boards for high-paying product roles that fit Madrid or Spain-remote preferences.",
+  "companies": [
+    {
+      "company": "Aircall",
+      "provider": "lever",
+      "token": "aircall",
+      "location_filter": "Madrid",
+      "priority": "core"
+    },
+    {
+      "company": "Twilio",
+      "provider": "greenhouse",
+      "token": "twilio",
+      "location_filter": "Spain",
+      "priority": "core"
+    },
+    {
+      "company": "Affirm",
+      "provider": "greenhouse",
+      "token": "affirm",
+      "location_filter": "Spain",
+      "priority": "core"
+    },
+    {
+      "company": "Datadog",
+      "provider": "manual",
+      "token": "datadog",
+      "location_filter": "Madrid",
+      "priority": "reach",
+      "input_path": "data/seeds/datadog_jobs.json"
+    },
+    {
+      "company": "Tinybird",
+      "provider": "lever",
+      "token": "tinybird",
+      "location_filter": "Spain",
+      "priority": "opportunistic"
+    }
+  ]
+}

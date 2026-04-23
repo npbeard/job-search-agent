@@ -1,0 +1,55 @@
+[
+  {
+    "full_name": "Ana Martinez",
+    "company": "Aircall",
+    "title": "Software Engineer",
+    "location": "Madrid, Spain",
+    "linkedin_url": "https://www.linkedin.com/in/example-ana-martinez",
+    "university": "IE University",
+    "shared_connections": 9,
+    "same_university": true,
+    "recruiter": false,
+    "hiring_manager": false,
+    "works_in_target_role": true
+  },
+  {
+    "full_name": "Paula Diaz",
+    "company": "Datadog",
+    "title": "Technical Recruiter",
+    "location": "Madrid, Spain",
+    "linkedin_url": "https://www.linkedin.com/in/example-paula-diaz",
+    "university": "Universidad Carlos III de Madrid",
+    "shared_connections": 3,
+    "same_university": false,
+    "recruiter": true,
+    "hiring_manager": false,
+    "works_in_target_role": false
+  },
+  {
+    "full_name": "Luis Romero",
+    "company": "Twilio",
+    "title": "Engineering Manager",
+    "location": "Remote - Spain",
+    "linkedin_url": "https://www.linkedin.com/in/example-luis-romero",
+    "university": "Lehigh University",
+    "shared_connections": 5,
+    "same_university": true,
+    "recruiter": false,
+    "hiring_manager": true,
+    "works_in_target_role": false
+  },
+  {
+    "full_name": "Marta Lopez",
+    "company": "Affirm",
+    "title": "Senior Backend Engineer",
+    "location": "Remote - Spain",
+    "linkedin_url": "https://www.linkedin.com/in/example-marta-lopez",
+    "university": "Universidad Politecnica de Madrid",
+    "shared_connections": 12,
+    "same_university": false,
+    "recruiter": false,
+    "hiring_manager": false,
+    "works_in_target_role": true
+  }
+]
+

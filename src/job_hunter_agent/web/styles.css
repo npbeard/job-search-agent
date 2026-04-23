@@ -1,0 +1,261 @@
+:root {
+  color-scheme: light;
+  --bg: #f5f7fb;
+  --panel: #ffffff;
+  --muted: #667085;
+  --text: #101828;
+  --border: #d0d5dd;
+  --accent: #1366d6;
+  --accent-soft: #e7f0ff;
+  --good: #067647;
+  --warn: #b54708;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+.app-shell {
+  max-width: 1380px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.hero,
+.panel {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 20px;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: 1.4fr 1fr;
+  gap: 20px;
+  align-items: start;
+}
+
+.eyebrow {
+  margin: 0 0 8px;
+  font-size: 12px;
+  text-transform: uppercase;
+  color: var(--muted);
+  font-weight: 700;
+}
+
+h1,
+h2,
+h3,
+p {
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 40px;
+  line-height: 1.05;
+  margin-bottom: 12px;
+}
+
+.hero-copy {
+  max-width: 58ch;
+  color: var(--muted);
+  margin-bottom: 0;
+}
+
+.source-panel {
+  display: grid;
+  gap: 12px;
+}
+
+.source-panel label,
+.job-filters label {
+  display: grid;
+  gap: 6px;
+}
+
+.source-panel input,
+.job-filters input,
+.job-filters select {
+  width: 100%;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 10px 12px;
+  background: #fff;
+  color: var(--text);
+}
+
+button {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: white;
+  border-radius: 6px;
+  padding: 10px 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.secondary-button {
+  border-color: var(--border);
+  background: #fff;
+  color: var(--text);
+}
+
+.status-bar {
+  margin: 16px 0;
+  min-height: 24px;
+  color: var(--muted);
+}
+
+.summary-grid {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 16px;
+  margin-bottom: 16px;
+}
+
+.summary-card {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.summary-card strong {
+  display: block;
+  font-size: 28px;
+  margin-bottom: 8px;
+}
+
+.summary-card span {
+  color: var(--muted);
+}
+
+.panel {
+  margin-bottom: 16px;
+}
+
+.panel-header {
+  display: flex;
+  align-items: end;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 16px;
+}
+
+.job-filters {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+
+.pill {
+  display: inline-flex;
+  align-items: center;
+  min-width: 72px;
+  justify-content: center;
+  padding: 8px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-weight: 600;
+  background: #fff;
+}
+
+.job-list,
+.contact-list,
+.draft-list {
+  display: grid;
+  gap: 12px;
+}
+
+.job-card,
+.contact-card,
+.draft-card {
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  background: #fff;
+}
+
+.card-topline {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  align-items: start;
+  margin-bottom: 10px;
+}
+
+.score-badge {
+  padding: 6px 10px;
+  border-radius: 999px;
+  font-weight: 700;
+  background: var(--accent-soft);
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+.meta-row,
+.reason-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin: 10px 0 0;
+}
+
+.tag {
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  padding: 4px 8px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.tag.good {
+  color: var(--good);
+  border-color: rgba(6, 118, 71, 0.25);
+  background: rgba(6, 118, 71, 0.08);
+}
+
+.tag.warn {
+  color: var(--warn);
+  border-color: rgba(181, 71, 8, 0.25);
+  background: rgba(181, 71, 8, 0.08);
+}
+
+.two-col {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.draft-body {
+  white-space: pre-wrap;
+  line-height: 1.5;
+  color: #344054;
+  margin-top: 10px;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+}
+
+@media (max-width: 1100px) {
+  .hero,
+  .two-col,
+  .summary-grid {
+    grid-template-columns: 1fr;
+  }
+}

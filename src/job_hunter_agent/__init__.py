@@ -1,0 +1,2 @@
+"""Job Hunter Agent package."""
+

@@ -1,0 +1,78 @@
+[
+  {
+    "company": "Aircall",
+    "title": "Software Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 75000,
+    "hours_risk": "medium",
+    "required_years_experience": 3,
+    "level": "mid",
+    "skills": ["Python", "AWS", "Distributed Systems", "APIs"],
+    "url": "https://jobs.lever.co/aircall",
+    "source": "official_careers"
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Software Engineer",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 110000,
+    "hours_risk": "medium",
+    "required_years_experience": 5,
+    "level": "senior",
+    "skills": ["Python", "Java", "AWS", "APIs", "Distributed Systems"],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7535345",
+    "source": "official_careers"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "min_salary_eur": 95000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 6,
+    "level": "senior",
+    "skills": ["Python", "Distributed Systems", "Cloud Infrastructure", "Reliability"],
+    "url": "https://careers.datadoghq.com/detail/4599148/",
+    "source": "official_careers"
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Software Engineer, Backend",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 125000,
+    "hours_risk": "medium",
+    "required_years_experience": 5,
+    "level": "senior",
+    "skills": ["Python", "Backend Systems", "Cloud Compute", "Data Platforms"],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7651525003",
+    "source": "official_careers"
+  },
+  {
+    "company": "ConsultingCo",
+    "title": "Analytics Consultant",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 50000,
+    "max_salary_eur": 65000,
+    "hours_risk": "high",
+    "required_years_experience": 2,
+    "level": "mid",
+    "skills": ["SQL", "PowerBI", "Client Management"],
+    "url": "https://example.com/consulting-role",
+    "source": "example"
+  }
+]
+

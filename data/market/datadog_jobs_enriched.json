@@ -1,0 +1,22 @@
+[
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "min_salary_eur": 95000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 6,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Distributed Systems",
+      "Cloud Infrastructure",
+      "Reliability"
+    ],
+    "url": "https://careers.datadoghq.com/madrid/",
+    "source": "manual_seed:datadog"
+  }
+]

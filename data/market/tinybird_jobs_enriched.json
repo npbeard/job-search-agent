@@ -1,0 +1,36 @@
+[
+  {
+    "company": "Tinybird",
+    "title": "Open Application",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.lever.co/tinybird/22cbcc27-89c4-4f87-87bc-6937712e7b10",
+    "source": "lever:tinybird"
+  },
+  {
+    "company": "Tinybird",
+    "title": "Site Reliability Engineer",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/tinybird/66025e00-2913-4ac8-8bd4-fd7e7b6b8aa7",
+    "source": "lever:tinybird"
+  }
+]

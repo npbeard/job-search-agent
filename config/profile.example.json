@@ -1,0 +1,38 @@
+{
+  "name": "Nicolas Beard",
+  "location": "Madrid, Spain",
+  "citizenships": ["United States", "Spain"],
+  "languages": ["English", "Spanish"],
+  "universities": ["IE University", "Lehigh University"],
+  "years_experience": 4.5,
+  "target_titles": [
+    "Software Engineer",
+    "Backend Engineer",
+    "Platform Engineer",
+    "Data Engineer",
+    "Site Reliability Engineer"
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "AWS",
+    "Terraform",
+    "Spark",
+    "Linux",
+    "API Gateway",
+    "Lambda",
+    "ECS",
+    "Backend Systems",
+    "ETL",
+    "ELT"
+  ],
+  "preferred_locations": ["Madrid, Spain", "Remote - Spain", "Spain"],
+  "avoid_keywords": ["consulting", "strategy consulting", "travel-intensive"],
+  "avoid_hours_risk": ["high"],
+  "preferred_hours_risk": ["low", "medium"],
+  "salary_floor_eur": 55000,
+  "stretch_level_titles": ["Senior Software Engineer", "Senior Backend Engineer"],
+  "max_reasonable_required_years": 6,
+  "notes": "Finishing master's last term; prefers high-paying product roles with reasonable hours."
+}
+
