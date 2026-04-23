@@ -6,9 +6,11 @@ const els = {
   contactsInput: document.getElementById("contacts-input"),
   status: document.getElementById("status-bar"),
   summary: document.getElementById("summary-grid"),
+  companyBreakdown: document.getElementById("company-breakdown"),
   jobs: document.getElementById("jobs-list"),
   searches: document.getElementById("searches-list"),
   drafts: document.getElementById("drafts-list"),
+  viewMode: document.getElementById("view-mode"),
   companyFilter: document.getElementById("company-filter"),
   scoreFilter: document.getElementById("score-filter"),
   scoreFilterValue: document.getElementById("score-filter-value"),
@@ -45,9 +47,18 @@ function renderSummary(payload) {
 function renderJobs(payload) {
   const minScore = Number(els.scoreFilter.value);
   const companyValue = els.companyFilter.value;
+  const viewMode = els.viewMode.value;
   els.scoreFilterValue.textContent = `${minScore.toFixed(2)}+`;
-  const jobs = payload.ranked_jobs.filter((item) => item.score >= minScore)
+  const filteredJobs = payload.ranked_jobs
+    .filter((item) => item.score >= minScore)
     .filter((item) => companyValue === "all" || item.job.company === companyValue);
+  const jobs = viewMode === "balanced" && companyValue === "all"
+    ? buildBalancedShortlist(filteredJobs, 2)
+    : filteredJobs;
+  if (!jobs.length) {
+    els.jobs.innerHTML = `<div class="empty-state">No jobs match the current filters.</div>`;
+    return;
+  }
   els.jobs.innerHTML = jobs.map((item) => {
     const job = item.job;
     const reasons = item.reasons.slice(0, 5).map((reason) => tag(reason, "good")).join("");
@@ -76,6 +87,43 @@ function renderJobs(payload) {
   }).join("");
 }
 
+function buildBalancedShortlist(items, perCompanyLimit = 2) {
+  const groups = new Map();
+  items.forEach((item) => {
+    const company = item.job.company;
+    if (!groups.has(company)) groups.set(company, []);
+    groups.get(company).push(item);
+  });
+  const balanced = [];
+  let round = 0;
+  let added = true;
+  while (added) {
+    added = false;
+    for (const jobs of groups.values()) {
+      if (round < Math.min(jobs.length, perCompanyLimit)) {
+        balanced.push(jobs[round]);
+        added = true;
+      }
+    }
+    round += 1;
+  }
+  return balanced;
+}
+
+function renderCompanyBreakdown(payload) {
+  const counts = payload.ranked_jobs.reduce((acc, item) => {
+    acc[item.job.company] = (acc[item.job.company] || 0) + 1;
+    return acc;
+  }, {});
+  const entries = Object.entries(counts).sort((a, b) => b[1] - a[1]);
+  els.companyBreakdown.innerHTML = entries.map(([company, count]) => `
+    <article class="company-pill">
+      <strong>${count}</strong>
+      <span>${company}</span>
+    </article>
+  `).join("");
+}
+
 function renderCompanyFilter(payload) {
   const previous = els.companyFilter.value || "all";
   const options = ['<option value="all">All companies</option>']
@@ -85,7 +133,15 @@ function renderCompanyFilter(payload) {
 }
 
 function renderSearches(payload) {
-  els.searches.innerHTML = payload.contact_search_queries.slice(0, 12).map((item) => {
+  const activeCompany = els.companyFilter.value;
+  const searches = payload.contact_search_queries
+    .filter((item) => activeCompany === "all" || item.company === activeCompany)
+    .slice(0, 12);
+  if (!searches.length) {
+    els.searches.innerHTML = `<div class="empty-state">No LinkedIn searches match the current company filter.</div>`;
+    return;
+  }
+  els.searches.innerHTML = searches.map((item) => {
     const reasons = item.reasons.map((reason) => tag(reason, "good")).join("");
     return `
       <article class="contact-card">
@@ -107,7 +163,15 @@ function renderSearches(payload) {
 }
 
 function renderDrafts(payload) {
-  els.drafts.innerHTML = payload.outreach_drafts.slice(0, 6).map((item) => `
+  const activeCompany = els.companyFilter.value;
+  const drafts = payload.outreach_drafts
+    .filter((item) => activeCompany === "all" || item.company === activeCompany)
+    .slice(0, 6);
+  if (!drafts.length) {
+    els.drafts.innerHTML = `<div class="empty-state">No outreach drafts match the current company filter.</div>`;
+    return;
+  }
+  els.drafts.innerHTML = drafts.map((item) => `
     <article class="draft-card">
       <div class="card-topline">
         <div>
@@ -144,6 +208,7 @@ async function loadDashboard() {
   }
   latestPayload = payload;
   renderSummary(payload);
+  renderCompanyBreakdown(payload);
   renderCompanyFilter(payload);
   renderJobs(payload);
   renderSearches(payload);
@@ -185,6 +250,14 @@ els.scoreFilter.addEventListener("input", () => {
 });
 
 els.companyFilter.addEventListener("change", () => {
+  if (latestPayload) {
+    renderJobs(latestPayload);
+    renderSearches(latestPayload);
+    renderDrafts(latestPayload);
+  }
+});
+
+els.viewMode.addEventListener("change", () => {
   if (latestPayload) renderJobs(latestPayload);
 });
 

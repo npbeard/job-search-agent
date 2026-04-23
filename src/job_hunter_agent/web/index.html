@@ -41,10 +41,27 @@
       <section class="panel">
         <div class="panel-header">
           <div>
+            <p class="eyebrow">Market Mix</p>
+            <h2>Company distribution</h2>
+          </div>
+        </div>
+        <div id="company-breakdown" class="company-breakdown"></div>
+      </section>
+
+      <section class="panel">
+        <div class="panel-header">
+          <div>
             <p class="eyebrow">Jobs</p>
             <h2>Ranked opportunities</h2>
           </div>
           <div class="job-filters">
+            <label>
+              <span>View</span>
+              <select id="view-mode">
+                <option value="balanced">Balanced shortlist</option>
+                <option value="overall">Best overall</option>
+              </select>
+            </label>
             <label>
               <span>Company</span>
               <select id="company-filter">

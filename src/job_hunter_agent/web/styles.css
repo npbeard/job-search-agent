@@ -121,6 +121,29 @@ button {
   margin-bottom: 16px;
 }
 
+.company-breakdown {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 12px;
+}
+
+.company-pill {
+  background: var(--panel);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+}
+
+.company-pill strong {
+  display: block;
+  font-size: 24px;
+  margin-bottom: 6px;
+}
+
+.company-pill span {
+  color: var(--muted);
+}
+
 .summary-card {
   background: var(--panel);
   border: 1px solid var(--border);
@@ -174,6 +197,14 @@ button {
 .draft-list {
   display: grid;
   gap: 12px;
+}
+
+.empty-state {
+  border: 1px dashed var(--border);
+  border-radius: 8px;
+  padding: 20px;
+  color: var(--muted);
+  background: #fff;
 }
 
 .job-card,
