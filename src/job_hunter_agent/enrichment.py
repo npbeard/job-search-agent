@@ -168,6 +168,12 @@ def normalize_location(location: str) -> str:
         return "Madrid, Spain"
     if "spain" in lowered and "remote" in lowered:
         return "Remote - Spain"
+    # Multi-country remote strings (e.g. Typeform: "Germany (Remote) ; Spain (Remote) ; ...")
+    # If Spain appears in a multi-location string, treat as Spain-remote
+    if "spain" in lowered and (";" in location or "|" in location):
+        return "Remote - Spain"
+    if "spain" in lowered:
+        return "Remote - Spain"
     return location
 
 

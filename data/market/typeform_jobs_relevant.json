@@ -1,0 +1,29 @@
+[
+  {
+    "company": "Typeform",
+    "title": "Data Platform Engineer - Fixed Term Contract",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 65000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux",
+      "Sql",
+      "Etl",
+      "Elt",
+      "Spark",
+      "Dbt",
+      "Warehouse",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7850909",
+    "source": "greenhouse:typeform"
+  }
+]

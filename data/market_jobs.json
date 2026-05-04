@@ -133,26 +133,6 @@
   },
   {
     "company": "Aircall",
-    "title": "Senior Software Engineer \u2013 Applied AI for Corporate Systems",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.lever.co/aircall/bc0bc074-02c8-40a6-90fc-3797e93d1fc2",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
     "title": "Software Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -212,6 +192,26 @@
     "source": "greenhouse:twilio"
   },
   {
+    "company": "Twilio",
+    "title": "Software Engineer ",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 70000,
+    "max_salary_eur": 95000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7846633",
+    "source": "greenhouse:twilio"
+  },
+  {
     "company": "Affirm",
     "title": "Senior Site Reliability Engineer (SRE & Platform Reliability)",
     "location": "Remote - Spain",
@@ -235,7 +235,7 @@
   },
   {
     "company": "Affirm",
-    "title": "Senior Software Engineer",
+    "title": "Senior Software Engineer, Backend (Cloud Compute)",
     "location": "Remote - Spain",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -248,7 +248,10 @@
       "Python",
       "Java",
       "AWS",
-      "Linux"
+      "Linux",
+      "Apis",
+      "Microservices",
+      "Backend Systems"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7511993003",
     "source": "greenhouse:affirm"
@@ -277,26 +280,6 @@
       "Reliability"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/6642238003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
-    "title": "Senior Software Engineer, Back-end (Fraud)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 130000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7611725003",
     "source": "greenhouse:affirm"
   },
   {
@@ -376,6 +359,26 @@
   },
   {
     "company": "Affirm",
+    "title": "Software Engineer I, Back-end (Repayment Scheduling)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7710972003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Software Engineer I, Full Stack (Consumer Engineering)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -416,8 +419,34 @@
   },
   {
     "company": "Tinybird",
+    "title": "Backend Engineer - Platform",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "APIs",
+      "Backend Systems",
+      "AWS",
+      "Microservices",
+      "Terraform",
+      "Linux",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.lever.co/tinybird/d3a9d557-a075-481b-a529-d73c35775f66",
+    "source": "lever:tinybird"
+  },
+  {
+    "company": "Tinybird",
     "title": "Site Reliability Engineer",
-    "location": "Spain",
+    "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "Remote",
     "min_salary_eur": 60000,
@@ -432,5 +461,138 @@
     ],
     "url": "https://jobs.lever.co/tinybird/66025e00-2913-4ac8-8bd4-fd7e7b6b8aa7",
     "source": "lever:tinybird"
+  },
+  {
+    "company": "Cabify",
+    "title": "Backend Software Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "Apis",
+      "Microservices",
+      "Backend Systems"
+    ],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8370265002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "Site Reliability Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "hybrid",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8367951002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Typeform",
+    "title": "Data Platform Engineer - Fixed Term Contract",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 65000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux",
+      "Sql",
+      "Etl",
+      "Elt",
+      "Spark",
+      "Dbt",
+      "Warehouse",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7850909",
+    "source": "greenhouse:typeform"
+  },
+  {
+    "company": "Elastic",
+    "title": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": " Software Engineer II - Engineering Productivity - Platform",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "Terraform",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7687038&gh_jid=7687038",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Software Engineer II - Node - Security - Admin Experience - AppEx",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7826075&gh_jid=7826075",
+    "source": "greenhouse:elastic"
   }
 ]

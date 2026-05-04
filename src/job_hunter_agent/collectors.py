@@ -77,6 +77,9 @@ def _company_from_board_token(token: str) -> str:
         "twilio": "Twilio",
         "grafanalabs": "Grafana Labs",
         "datadog": "Datadog",
+        "cabify": "Cabify",
+        "typeform": "Typeform",
+        "elastic": "Elastic",
     }
     return token_map.get(token.lower(), token.replace("-", " ").title())
 

@@ -1,5 +1,6 @@
 from __future__ import annotations
 
+from job_hunter_agent.enrichment import normalize_target_titles
 from job_hunter_agent.io_utils import load_json
 from job_hunter_agent.models import CandidateProfile, JobOpportunity, RankedJob
 
@@ -47,14 +48,22 @@ def _fit_score(profile: CandidateProfile, job: JobOpportunity) -> tuple[float, l
     profile_skills = {_normalize(skill) for skill in profile.skills}
     job_skills = {_normalize(skill) for skill in job.skills}
     skill_overlap = len(profile_skills & job_skills)
-    target_title_match = any(
-        _normalize(target) in _normalize(job.title) or _normalize(job.title) in _normalize(target)
+    expanded_titles = normalize_target_titles(profile.target_titles)
+    title_lower = _normalize(job.title)
+    exact_title_match = any(
+        _normalize(target) in title_lower or title_lower in _normalize(target)
         for target in profile.target_titles
     )
-    score = min(skill_overlap / 5.0, 1.0) * 0.7
-    if target_title_match:
-        score += 0.3
+    alias_title_match = any(alias in title_lower for alias in expanded_titles)
+    if exact_title_match:
+        title_bonus = 0.3
         reasons.append("title aligns with target roles")
+    elif alias_title_match:
+        title_bonus = 0.2
+        reasons.append("title is a close match for target role family")
+    else:
+        title_bonus = 0.0
+    score = min(skill_overlap / 5.0, 1.0) * 0.7 + title_bonus
     if skill_overlap:
         reasons.append(f"{skill_overlap} matching core skills")
     return min(score, 1.0), reasons

@@ -189,26 +189,6 @@
   },
   {
     "company": "Aircall",
-    "title": "Senior Software Engineer \u2013 Applied AI for Corporate Systems",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.lever.co/aircall/bc0bc074-02c8-40a6-90fc-3797e93d1fc2",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
     "title": "Software Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",

@@ -1,8 +1,34 @@
 [
   {
     "company": "Tinybird",
+    "title": "Backend Engineer - Platform",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "APIs",
+      "Backend Systems",
+      "AWS",
+      "Microservices",
+      "Terraform",
+      "Linux",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.lever.co/tinybird/d3a9d557-a075-481b-a529-d73c35775f66",
+    "source": "lever:tinybird"
+  },
+  {
+    "company": "Tinybird",
     "title": "Site Reliability Engineer",
-    "location": "Spain",
+    "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "Remote",
     "min_salary_eur": 60000,

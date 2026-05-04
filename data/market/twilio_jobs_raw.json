@@ -1,6 +1,21 @@
 [
   {
     "company": "Twilio",
+    "title": "Enterprise Account Executive ",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7845785",
+    "source": "greenhouse:twilio"
+  },
+  {
+    "company": "Twilio",
     "title": "Senior Cloud Software Engineer",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -31,6 +46,21 @@
   },
   {
     "company": "Twilio",
+    "title": "Software Engineer ",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7846633",
+    "source": "greenhouse:twilio"
+  },
+  {
+    "company": "Twilio",
     "title": "Strategic Account Executive ",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -42,6 +72,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/twilio/jobs/7640995",
+    "source": "greenhouse:twilio"
+  },
+  {
+    "company": "Twilio",
+    "title": "Strategic Account Executive (German Speaking)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7865849",
     "source": "greenhouse:twilio"
   }
 ]

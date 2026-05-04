@@ -37,6 +37,27 @@
       "token": "tinybird",
       "location_filter": "Spain",
       "priority": "opportunistic"
+    },
+    {
+      "company": "Cabify",
+      "provider": "greenhouse",
+      "token": "cabify",
+      "location_filter": "Madrid",
+      "priority": "core"
+    },
+    {
+      "company": "Typeform",
+      "provider": "greenhouse",
+      "token": "typeform",
+      "location_filter": "Spain",
+      "priority": "core"
+    },
+    {
+      "company": "Elastic",
+      "provider": "greenhouse",
+      "token": "elastic",
+      "location_filter": "Spain",
+      "priority": "reach"
     }
   ]
 }

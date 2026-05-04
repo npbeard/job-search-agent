@@ -23,7 +23,7 @@
   },
   {
     "company": "Affirm",
-    "title": "Senior Software Engineer",
+    "title": "Senior Software Engineer, Backend (Cloud Compute)",
     "location": "Remote - Spain",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -36,7 +36,10 @@
       "Python",
       "Java",
       "AWS",
-      "Linux"
+      "Linux",
+      "Apis",
+      "Microservices",
+      "Backend Systems"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7511993003",
     "source": "greenhouse:affirm"
@@ -65,26 +68,6 @@
       "Reliability"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/6642238003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
-    "title": "Senior Software Engineer, Back-end (Fraud)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 130000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7611725003",
     "source": "greenhouse:affirm"
   },
   {
@@ -160,6 +143,26 @@
       "Reliability"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/6922636003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer I, Back-end (Repayment Scheduling)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7710972003",
     "source": "greenhouse:affirm"
   },
   {

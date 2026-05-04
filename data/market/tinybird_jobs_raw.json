@@ -1,6 +1,21 @@
 [
   {
     "company": "Tinybird",
+    "title": "Backend Engineer - Platform",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.lever.co/tinybird/d3a9d557-a075-481b-a529-d73c35775f66",
+    "source": "lever:tinybird"
+  },
+  {
+    "company": "Tinybird",
     "title": "Open Application",
     "location": "Spain",
     "remote_type": "onsite",
