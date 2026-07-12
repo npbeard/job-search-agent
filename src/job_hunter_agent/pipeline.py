@@ -2,7 +2,13 @@ from __future__ import annotations
 
 from pathlib import Path
 
-from job_hunter_agent.collectors import fetch_greenhouse_jobs, fetch_lever_jobs
+from job_hunter_agent.collectors import (
+    fetch_ashby_jobs,
+    fetch_greenhouse_jobs,
+    fetch_lever_jobs,
+    fetch_remotive_jobs,
+    fetch_themuse_jobs,
+)
 from job_hunter_agent.enrichment import enrich_jobs, is_job_relevant, load_salary_bands
 from job_hunter_agent.io_utils import dataclass_list_to_dicts, dump_json, load_json
 from job_hunter_agent.market import merge_job_files
@@ -68,12 +74,28 @@ def refresh_market_dataset(
 
 def collect_company_jobs(company_config: dict, repo_root: Path) -> list[JobOpportunity]:
     provider = company_config["provider"]
-    token = company_config["token"]
+    token = company_config.get("token", "")
     location_filter = company_config.get("location_filter")
     if provider == "lever":
         return fetch_lever_jobs(token, location_filter=location_filter)
     if provider == "greenhouse":
         return fetch_greenhouse_jobs(token, location_filter=location_filter)
+    if provider == "ashby":
+        return fetch_ashby_jobs(token, location_filter=location_filter)
+    if provider == "remotive":
+        # Aggregator: discovers jobs (and companies) dynamically across the whole board.
+        categories = company_config.get("categories")
+        return fetch_remotive_jobs(
+            categories=tuple(categories) if categories else None,
+            location_markers=company_config.get("location_markers"),
+        )
+    if provider == "themuse":
+        # Aggregator: discovers jobs (and companies) dynamically for a location.
+        return fetch_themuse_jobs(
+            location=company_config.get("location", "Madrid, Spain"),
+            categories=tuple(company_config.get("categories", ["Software Engineering", "Data and Analytics"])),
+            max_pages=int(company_config.get("max_pages", 3)),
+        )
     if provider == "manual":
         input_path = company_config.get("input_path")
         if not input_path:

@@ -2,8 +2,15 @@ from __future__ import annotations
 
 import argparse
 
-from job_hunter_agent.collectors import fetch_greenhouse_jobs, fetch_lever_jobs
+from job_hunter_agent.collectors import (
+    fetch_ashby_jobs,
+    fetch_greenhouse_jobs,
+    fetch_lever_jobs,
+    fetch_remotive_jobs,
+    fetch_themuse_jobs,
+)
 from job_hunter_agent.contacts import load_contacts, rank_contacts
+from job_hunter_agent.emails import build_cold_email, guess_company_domain, guess_email_addresses
 from job_hunter_agent.dashboard import resolve_port, serve_dashboard
 from job_hunter_agent.enrichment import enrich_jobs, is_job_relevant, load_salary_bands
 from job_hunter_agent.io_utils import dataclass_list_to_dicts, dump_json
@@ -78,6 +85,12 @@ def _collect_jobs(provider: str, token: str, location: str | None, output: str) 
         jobs = fetch_lever_jobs(token, location_filter=location)
     elif provider == "greenhouse":
         jobs = fetch_greenhouse_jobs(token, location_filter=location)
+    elif provider == "ashby":
+        jobs = fetch_ashby_jobs(token, location_filter=location)
+    elif provider == "remotive":
+        jobs = fetch_remotive_jobs()
+    elif provider == "themuse":
+        jobs = fetch_themuse_jobs(location=location or "Madrid, Spain")
     else:
         raise ValueError(f"unsupported provider: {provider}")
     dump_json(output, dataclass_list_to_dicts(jobs))
@@ -163,6 +176,27 @@ def _print_contact_searches(profile_path: str, jobs_path: str, limit: int) -> No
         print(f"   reasons: {', '.join(item.reasons)}")
 
 
+def _print_email_guesses(
+    name: str,
+    domain: str | None,
+    company: str | None,
+    job_title: str | None,
+    profile_path: str | None,
+) -> None:
+    resolved_domain = domain or (guess_company_domain(company) if company else "")
+    if not resolved_domain:
+        raise ValueError("provide --domain or --company to guess against")
+    guesses = guess_email_addresses(name, resolved_domain)
+    print(f"Likely addresses for {name} @ {resolved_domain} (unverified):")
+    for index, guess in enumerate(guesses, start=1):
+        print(f"{index:>2}. {guess.address:<40} pattern={guess.pattern} confidence={guess.confidence:.2f}")
+    if profile_path and company and job_title:
+        profile = load_profile(profile_path)
+        subject, body = build_cold_email(profile, company, job_title, contact_name=name)
+        print(f"\nsubject: {subject}\n")
+        print(body)
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="job-hunter-agent")
     subparsers = parser.add_subparsers(dest="command", required=True)
@@ -190,8 +224,13 @@ def build_parser() -> argparse.ArgumentParser:
     drafts_parser.add_argument("--limit", type=int, default=5, help="Number of drafts to print.")
 
     collect_parser = subparsers.add_parser("collect-jobs", help="Collect jobs from common careers APIs.")
-    collect_parser.add_argument("--provider", choices=["lever", "greenhouse"], required=True, help="Careers platform.")
-    collect_parser.add_argument("--token", required=True, help="Company slug or board token.")
+    collect_parser.add_argument(
+        "--provider",
+        choices=["lever", "greenhouse", "ashby", "remotive", "themuse"],
+        required=True,
+        help="Careers platform or aggregator.",
+    )
+    collect_parser.add_argument("--token", default="", help="Company slug or board token (unused for aggregators).")
     collect_parser.add_argument("--location", help="Optional location substring filter.")
     collect_parser.add_argument("--output", required=True, help="Path to output JSON.")
 
@@ -229,6 +268,13 @@ def build_parser() -> argparse.ArgumentParser:
     searches_parser.add_argument("--jobs", required=True, help="Path to jobs JSON.")
     searches_parser.add_argument("--limit", type=int, default=20, help="Number of searches to print.")
 
+    emails_parser = subparsers.add_parser("guess-emails", help="Guess likely email addresses for a contact.")
+    emails_parser.add_argument("--name", required=True, help="Contact full name.")
+    emails_parser.add_argument("--domain", help="Company email domain, e.g. acme.com.")
+    emails_parser.add_argument("--company", help="Company name (used to guess domain if --domain omitted).")
+    emails_parser.add_argument("--job-title", help="Role to reference in a drafted email.")
+    emails_parser.add_argument("--profile", help="Profile JSON; with --company and --job-title, drafts an email.")
+
     return parser
 
 
@@ -263,3 +309,5 @@ def main() -> None:
         )
     elif args.command == "contact-searches":
         _print_contact_searches(args.profile, args.jobs, args.limit)
+    elif args.command == "guess-emails":
+        _print_email_guesses(args.name, args.domain, args.company, args.job_title, args.profile)

@@ -44,7 +44,7 @@
   "avoid_keywords": ["consulting", "strategy consulting", "travel-intensive", "support engineer"],
   "avoid_hours_risk": ["high"],
   "preferred_hours_risk": ["low", "medium"],
-  "salary_floor_eur": 55000,
+  "salary_floor_eur": 40000,
   "stretch_level_titles": [
     "Senior Data Engineer",
     "Senior Cloud Engineer",

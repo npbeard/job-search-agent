@@ -58,6 +58,21 @@
       "token": "elastic",
       "location_filter": "Spain",
       "priority": "reach"
+    },
+    {
+      "company": "Remotive (remote aggregator)",
+      "provider": "remotive",
+      "categories": ["Software Development", "DevOps / Sysadmin", "Data and Analytics", "Artificial Intelligence"],
+      "location_markers": ["spain", "madrid", "europe", "emea", "worldwide", "anywhere", "global"],
+      "priority": "discovery"
+    },
+    {
+      "company": "The Muse (Madrid aggregator)",
+      "provider": "themuse",
+      "location": "Madrid, Spain",
+      "categories": ["Software Engineering", "Data and Analytics"],
+      "max_pages": 10,
+      "priority": "discovery"
     }
   ]
 }

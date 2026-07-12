@@ -8,12 +8,14 @@ from job_hunter_agent.models import JobOpportunity
 
 def merge_job_files(paths: list[str]) -> list[JobOpportunity]:
     merged: list[JobOpportunity] = []
-    seen: set[tuple[str, str, str]] = set()
+    # Key on company+title (not URL) so the same role found via both a company
+    # board and an aggregator collapses; earlier files (official boards) win.
+    seen: set[tuple[str, str]] = set()
     for path in paths:
         payload = load_json(path)
         for item in payload:
             job = JobOpportunity(**item)
-            key = (job.company.strip().lower(), job.title.strip().lower(), job.url.strip().lower())
+            key = (job.company.strip().lower(), job.title.strip().lower())
             if key in seen:
                 continue
             seen.add(key)

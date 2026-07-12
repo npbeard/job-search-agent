@@ -34,9 +34,26 @@ So this project includes:
 
 - a `LinkedInOfficialProvider` placeholder for OAuth-backed self data and approved scopes
 - a generic contact import pipeline for CSV/JSON exports from compliant sources
-- careers collectors for common job-board providers like Lever and Greenhouse
+- careers collectors for common job-board providers: Lever, Greenhouse, and Ashby
+- **aggregator collectors** (Remotive, The Muse) that dynamically discover jobs — and
+  companies — matching your location, without maintaining a fixed company list
+- an email-pattern guesser + cold-email drafter for reaching contacts directly
 
 That gives you something usable right now while staying honest about platform limits.
+
+## How job discovery works
+
+Sources are configured in `config/market_targets.madrid.json` and come in two kinds:
+
+- **Company boards** (`lever`, `greenhouse`, `ashby`, `manual`): a curated list of
+  target companies; jobs are fetched live from each board.
+- **Aggregators** (`remotive`, `themuse`): discover jobs across *any* company matching
+  your location and category filters — new companies appear automatically. Note that
+  Remotive's free API serves only its latest postings and asks for ≤ ~4 calls/day
+  (the app's 6-hour cache respects that).
+
+Duplicate roles found via both a company board and an aggregator are merged
+(board version wins).
 
 ## Project layout
 
@@ -201,11 +218,28 @@ python3 -m job_hunter_agent contact-searches \
   --jobs data/market_jobs.json
 ```
 
+15. Guess likely email addresses for a contact (and draft a cold email):
+
+```bash
+python3 -m job_hunter_agent guess-emails \
+  --name "Jane Doe" \
+  --company "Acme" \
+  --job-title "Data Engineer" \
+  --profile config/profile.local.json
+```
+
 ## Streamlit app (local or hosted)
 
 A Streamlit version of the dashboard lives in `streamlit_app.py`. It reuses the same
 ranking modules and auto-refreshes live market data on load (cached for 6 hours), so a
-hosted deployment always shows fresh jobs.
+hosted deployment always shows fresh jobs. It also supports:
+
+- **Live profile tuning** — adjust salary floor, target/stretch roles, skills, avoid
+  keywords, and experience in the sidebar; rankings and relevance re-compute instantly
+  against the full collected dataset (not just the pre-filtered shortlist).
+- **Email finder** — guess a contact's likely work email from common corporate
+  patterns and draft a role-specific first-touch email from your profile. Guesses are
+  unverified; confirm before relying on them.
 
 Run it locally:
 
