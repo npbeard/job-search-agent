@@ -1,7 +1,7 @@
 [
   {
     "company": "Twilio",
-    "title": "Enterprise Account Executive ",
+    "title": "Machine Learning Engineer",
     "location": "Remote - Spain",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -11,7 +11,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7845785",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8007455",
     "source": "greenhouse:twilio"
   },
   {
@@ -31,7 +31,7 @@
   },
   {
     "company": "Twilio",
-    "title": "Senior Software Engineer",
+    "title": "Staff, Technical Account Manager (French Speaker)",
     "location": "Remote - Spain",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -41,37 +41,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7535345",
-    "source": "greenhouse:twilio"
-  },
-  {
-    "company": "Twilio",
-    "title": "Software Engineer ",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7846633",
-    "source": "greenhouse:twilio"
-  },
-  {
-    "company": "Twilio",
-    "title": "Strategic Account Executive ",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7640995",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8020357",
     "source": "greenhouse:twilio"
   },
   {

@@ -26,10 +26,14 @@ REPO_ROOT = MODULE_DIR.parent.parent
 def default_data_sources() -> dict[str, str]:
     combined_jobs = REPO_ROOT / "data" / "market_jobs.json"
     fallback_jobs = REPO_ROOT / "data" / "aircall_jobs_relevant.json"
-    local_profile = REPO_ROOT / "config" / "profile.local.json"
-    fallback_profile = REPO_ROOT / "config" / "profile.example.json"
+    profile_candidates = [
+        REPO_ROOT / "config" / "profile.local.json",
+        REPO_ROOT / "config" / "profile.nicolas.json",
+        REPO_ROOT / "config" / "profile.example.json",
+    ]
+    profile = next((path for path in profile_candidates if path.exists()), profile_candidates[-1])
     return {
-        "profile": str(local_profile if local_profile.exists() else fallback_profile),
+        "profile": str(profile),
         "jobs": str(combined_jobs if combined_jobs.exists() else fallback_jobs),
         "contacts": str(REPO_ROOT / "data" / "examples" / "contacts.json"),
     }
@@ -132,9 +136,10 @@ class DashboardHandler(BaseHTTPRequestHandler):
         self._send_json(payload)
 
     def _serve_asset(self, asset_name: str) -> None:
-        safe_name = posixpath.normpath(asset_name).lstrip("/")
-        asset_path = WEB_DIR / safe_name
-        if not asset_path.is_file():
+        safe_name = posixpath.normpath(urllib.parse.unquote(asset_name)).lstrip("/")
+        asset_path = (WEB_DIR / safe_name).resolve()
+        # Refuse anything that escapes the web directory (e.g. /static/../../...)
+        if not asset_path.is_relative_to(WEB_DIR) or not asset_path.is_file():
             self.send_error(HTTPStatus.NOT_FOUND, "Asset not found")
             return
         content_type = {
@@ -193,13 +198,15 @@ def serve_dashboard(host: str = "127.0.0.1", port: int = 8765) -> None:
         server.server_close()
 
 
-def resolve_port(preferred_port: int) -> int:
+def resolve_port(preferred_port: int, max_attempts: int = 10) -> int:
     import socket
 
-    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
-        if sock.connect_ex(("127.0.0.1", preferred_port)) != 0:
-            return preferred_port
-    return preferred_port + 1
+    for offset in range(max_attempts):
+        candidate = preferred_port + offset
+        with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as sock:
+            if sock.connect_ex(("127.0.0.1", candidate)) != 0:
+                return candidate
+    raise RuntimeError(f"no free port found in range {preferred_port}-{preferred_port + max_attempts - 1}")
 
 
 def browser_open_command(url: str) -> str:

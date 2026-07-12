@@ -20,6 +20,7 @@ class CandidateProfile:
     salary_floor_eur: int
     stretch_level_titles: list[str]
     max_reasonable_required_years: int
+    pitch: str = ""
     notes: str = ""
 
 

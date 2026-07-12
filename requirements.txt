@@ -1,0 +1,4 @@
+# Streamlit Community Cloud installs from this file.
+# The core package (src/job_hunter_agent) is stdlib-only.
+streamlit>=1.40
+pandas>=2.0

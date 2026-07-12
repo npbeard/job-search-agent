@@ -18,6 +18,15 @@ const els = {
 
 let latestPayload = null;
 
+function esc(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
+}
+
 function formatSalary(job) {
   if (job.min_salary_eur == null && job.max_salary_eur == null) return "Salary unknown";
   const low = (job.min_salary_eur ?? job.max_salary_eur).toLocaleString();
@@ -26,7 +35,7 @@ function formatSalary(job) {
 }
 
 function tag(label, variant = "") {
-  return `<span class="tag ${variant}">${label}</span>`;
+  return `<span class="tag ${variant}">${esc(label)}</span>`;
 }
 
 function renderSummary(payload) {
@@ -67,8 +76,8 @@ function renderJobs(payload) {
       <article class="job-card">
         <div class="card-topline">
           <div>
-            <h3>${job.title}</h3>
-            <p class="muted">${job.company} · ${job.location}</p>
+            <h3>${esc(job.title)}</h3>
+            <p class="muted">${esc(job.company)} · ${esc(job.location)}</p>
           </div>
           <span class="score-badge">${item.score.toFixed(2)}</span>
         </div>
@@ -81,7 +90,7 @@ function renderJobs(payload) {
         </div>
         <div class="reason-row">${reasons}</div>
         <div class="reason-row">${skillTags}</div>
-        <div class="reason-row"><a href="${job.url}" target="_blank" rel="noreferrer">Open role</a></div>
+        <div class="reason-row"><a href="${esc(job.url)}" target="_blank" rel="noreferrer">Open role</a></div>
       </article>
     `;
   }).join("");
@@ -119,7 +128,7 @@ function renderCompanyBreakdown(payload) {
   els.companyBreakdown.innerHTML = entries.map(([company, count]) => `
     <article class="company-pill">
       <strong>${count}</strong>
-      <span>${company}</span>
+      <span>${esc(company)}</span>
     </article>
   `).join("");
 }
@@ -127,7 +136,7 @@ function renderCompanyBreakdown(payload) {
 function renderCompanyFilter(payload) {
   const previous = els.companyFilter.value || "all";
   const options = ['<option value="all">All companies</option>']
-    .concat(payload.companies.map((company) => `<option value="${company}">${company}</option>`));
+    .concat(payload.companies.map((company) => `<option value="${esc(company)}">${esc(company)}</option>`));
   els.companyFilter.innerHTML = options.join("");
   els.companyFilter.value = payload.companies.includes(previous) ? previous : "all";
 }
@@ -147,8 +156,8 @@ function renderSearches(payload) {
       <article class="contact-card">
         <div class="card-topline">
           <div>
-            <h3>${item.persona}</h3>
-            <p class="muted">${item.company} · ${item.job_title}</p>
+            <h3>${esc(item.persona)}</h3>
+            <p class="muted">${esc(item.company)} · ${esc(item.job_title)}</p>
           </div>
           <span class="score-badge">${item.score.toFixed(2)}</span>
         </div>
@@ -156,7 +165,7 @@ function renderSearches(payload) {
           ${tag(item.query)}
         </div>
         <div class="reason-row">${reasons}</div>
-        <div class="reason-row"><a href="${item.linkedin_url}" target="_blank" rel="noreferrer">Open LinkedIn search</a></div>
+        <div class="reason-row"><a href="${esc(item.linkedin_url)}" target="_blank" rel="noreferrer">Open LinkedIn search</a></div>
       </article>
     `;
   }).join("");
@@ -175,16 +184,16 @@ function renderDrafts(payload) {
     <article class="draft-card">
       <div class="card-topline">
         <div>
-          <h3>${item.contact_name}</h3>
-          <p class="muted">${item.company} · ${item.job_title}</p>
+          <h3>${esc(item.contact_name)}</h3>
+          <p class="muted">${esc(item.company)} · ${esc(item.job_title)}</p>
         </div>
         <span class="score-badge">${item.score.toFixed(2)}</span>
       </div>
       <div class="meta-row">
         ${tag(item.subject)}
-        <a href="${item.contact_url}" target="_blank" rel="noreferrer">Open contact</a>
+        <a href="${esc(item.contact_url)}" target="_blank" rel="noreferrer">Open contact</a>
       </div>
-      <div class="draft-body">${item.message}</div>
+      <div class="draft-body">${esc(item.message)}</div>
     </article>
   `).join("");
 }

@@ -1,7 +1,7 @@
 [
   {
     "company": "Elastic",
-    "title": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure",
+    "title": "Senior AI Data Engineer",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -11,56 +11,15 @@
     "required_years_experience": 5.0,
     "level": "senior",
     "skills": [
-      "AWS",
-      "Terraform",
-      "Linux",
-      "Kubernetes",
-      "Reliability"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": " Software Engineer II - Engineering Productivity - Platform",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
       "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "Terraform",
-      "Kubernetes",
-      "Reliability"
+      "dbt",
+      "Warehouse"
     ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7687038&gh_jid=7687038",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Software Engineer II - Node - Security - Admin Experience - AppEx",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7826075&gh_jid=7826075",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7989242&gh_jid=7989242",
     "source": "greenhouse:elastic"
   }
 ]

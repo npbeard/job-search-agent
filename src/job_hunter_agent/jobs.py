@@ -83,7 +83,9 @@ def _realism_score(profile: CandidateProfile, job: JobOpportunity) -> tuple[floa
     else:
         score -= min(gap * 0.15, 0.6)
         reasons.append("experience requirement is a meaningful stretch")
-    if job.title in profile.stretch_level_titles:
+    stretch_titles = {_normalize(title) for title in profile.stretch_level_titles}
+    if _normalize(job.title) in stretch_titles or any(title in _normalize(job.title) for title in stretch_titles):
+        score += 0.15
         reasons.append("title is in your accepted stretch range")
     if required_years > profile.max_reasonable_required_years:
         score -= 0.2
@@ -94,10 +96,6 @@ def _realism_score(profile: CandidateProfile, job: JobOpportunity) -> tuple[floa
 def _lifestyle_score(profile: CandidateProfile, job: JobOpportunity) -> tuple[float, list[str]]:
     reasons: list[str] = []
     score = HOURS_WEIGHT.get(_normalize(job.hours_risk), 0.5)
-    text = f"{job.company} {job.title} {job.location}".lower()
-    if any(keyword.lower() in text for keyword in profile.avoid_keywords):
-        score = min(score, 0.1)
-        reasons.append("contains avoid keyword")
     if job.hours_risk in profile.avoid_hours_risk:
         reasons.append("hours risk is higher than preferred")
     else:
@@ -105,6 +103,11 @@ def _lifestyle_score(profile: CandidateProfile, job: JobOpportunity) -> tuple[fl
     if any(pref.lower() in job.location.lower() for pref in profile.preferred_locations):
         score += 0.1
         reasons.append("preferred location")
+    # Apply the avoid-keyword cap last so no bonus can climb back over it.
+    text = f"{job.company} {job.title} {job.location}".lower()
+    if any(keyword.lower() in text for keyword in profile.avoid_keywords):
+        score = min(score, 0.1)
+        reasons.append("contains avoid keyword")
     return min(score, 1.0), reasons
 
 

@@ -33,6 +33,7 @@
   "salary_floor_eur": 55000,
   "stretch_level_titles": ["Senior Software Engineer", "Senior Backend Engineer"],
   "max_reasonable_required_years": 6,
+  "pitch": "I'm a Madrid-based backend/data engineer finishing my master's at IE University, with experience across AWS cloud infrastructure and data platforms",
   "notes": "Finishing master's last term; prefers high-paying product roles with reasonable hours."
 }
 

@@ -1,8 +1,23 @@
 [
   {
     "company": "Elastic",
-    "title": "Inside Account Executive - CEE (Czech, Hungarian  or Bulgarian speaker)",
+    "title": "Business Strategy Developer - International",
     "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 45000,
+    "max_salary_eur": 60000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8050495&gh_jid=8050495",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Deal Desk Analyst (EMEA)",
+    "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
     "min_salary_eur": 80000,
@@ -11,13 +26,13 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7764796&gh_jid=7764796",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8037181&gh_jid=8037181",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Inside Account Executive IBERIA",
-    "location": "Remote - Spain",
+    "title": "Inside Account Executive (German speaker)",
+    "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
     "min_salary_eur": 80000,
@@ -26,27 +41,12 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7817934&gh_jid=7817934",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8050806&gh_jid=8050806",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Inside Account Executive - Switzerland (German speaking)",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7797801&gh_jid=7797801",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Platform - Principal Software Engineer (Networking)",
+    "title": "Principal Data Scientist - Agent Builder",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -56,20 +56,19 @@
     "required_years_experience": 9.0,
     "level": "principal",
     "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "Terraform",
-      "Kubernetes",
-      "Reliability"
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
+      "dbt",
+      "Warehouse"
     ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7843340&gh_jid=7843340",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8008494&gh_jid=8008494",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Principal Product Manager AI-driven, Observability",
+    "title": "Principal Product Manager, AI agents - Search",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -79,31 +78,12 @@
     "required_years_experience": 9.0,
     "level": "principal",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7624142&gh_jid=7624142",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7950454&gh_jid=7950454",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Principal Site Reliability Engineer - Observability",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 145000,
-    "max_salary_eur": 190000,
-    "hours_risk": "high",
-    "required_years_experience": 9.0,
-    "level": "principal",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7721575&gh_jid=7721575",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Principal Software Engineer I / II - Storage Engine - Elasticsearch",
+    "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -118,30 +98,7 @@
       "AWS",
       "Linux"
     ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7508491&gh_jid=7508491",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Principal Software Engineer (Networking) - Platform",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 145000,
-    "max_salary_eur": 190000,
-    "hours_risk": "high",
-    "required_years_experience": 9.0,
-    "level": "principal",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "Terraform",
-      "Kubernetes",
-      "Reliability"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7713597&gh_jid=7713597",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8020857&gh_jid=8020857",
     "source": "greenhouse:elastic"
   },
   {
@@ -161,13 +118,13 @@
       "AWS",
       "Linux"
     ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7544081&gh_jid=7544081",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8020844&gh_jid=8020844",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Product Designer II - Security",
-    "location": "Remote - Spain",
+    "title": "Sales Development Representative - Barcelona (Hybrid)",
+    "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
     "min_salary_eur": 80000,
@@ -176,28 +133,13 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7716465&gh_jid=7716465",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8055111&gh_jid=8055111",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Renewal Manager - IC (French speaker)",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7768041&gh_jid=7768041",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Sales Enablement Specialist (Trainer)",
-    "location": "Remote - Spain",
+    "title": "Sales Development Representative (German speaking)",
+    "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
     "min_salary_eur": 80000,
@@ -206,12 +148,27 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7386148&gh_jid=7386148",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7946583&gh_jid=7946583",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Senior Data Analyst \u2013 Insights & Analytics (Revenue Operations)",
+    "title": "Sales Development Representative UK&I (English speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8035491&gh_jid=8035491",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior AI Data Engineer",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -221,14 +178,15 @@
     "required_years_experience": 5.0,
     "level": "senior",
     "skills": [
-      "Sql",
-      "Etl",
-      "Elt",
+      "SQL",
+      "ETL",
+      "ELT",
       "Spark",
-      "Dbt",
+      "Python",
+      "dbt",
       "Warehouse"
     ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7601880&gh_jid=7601880",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7989242&gh_jid=7989242",
     "source": "greenhouse:elastic"
   },
   {
@@ -248,7 +206,7 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Go Engineer - Intake Services Team - Observability",
+    "title": "Senior Java Engineer - Distributed Systems - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -258,12 +216,12 @@
     "required_years_experience": 5.0,
     "level": "senior",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7742838&gh_jid=7742838",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8001192&gh_jid=8001192",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Senior Product Designer - Observability",
+    "title": "Senior Product Manager - Self service cloud",
     "location": "Remote - Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -273,77 +231,13 @@
     "required_years_experience": 5.0,
     "level": "senior",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7517668&gh_jid=7517668",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
     "source": "greenhouse:elastic"
   },
   {
     "company": "Elastic",
-    "title": "Site Reliability Engineer (Mid / Senior) - Platform Infrastructure",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux",
-      "Kubernetes",
-      "Reliability"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7721766&gh_jid=7721766",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": " Software Engineer II - Engineering Productivity - Platform",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "Terraform",
-      "Kubernetes",
-      "Reliability"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7687038&gh_jid=7687038",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Software Engineer II - Node - Security - Admin Experience - AppEx",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7826075&gh_jid=7826075",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Solution Architect",
-    "location": "Remote - Spain",
+    "title": "Solution Architect (Pre-sales)",
+    "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
     "min_salary_eur": 80000,
@@ -352,7 +246,22 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7811852&gh_jid=7811852",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7811850&gh_jid=7811850",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Tax Manager (EMEA & APJ) ",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7991248&gh_jid=7991248",
     "source": "greenhouse:elastic"
   }
 ]

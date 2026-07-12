@@ -1,7 +1,7 @@
 [
   {
     "company": "Aircall",
-    "title": "Infrastructure Engineer",
+    "title": "Customer Engineer - Iberia & Italy",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "Permanent Full Time Employee",
@@ -10,17 +10,13 @@
     "hours_risk": "medium",
     "required_years_experience": 3.0,
     "level": "mid",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux"
-    ],
-    "url": "https://jobs.lever.co/aircall/a0b5380d-de63-440b-bdb8-204315d8b11b",
+    "skills": [],
+    "url": "https://jobs.lever.co/aircall/09fef8ea-2dec-4717-bf9c-112be335bbe3",
     "source": "lever:aircall"
   },
   {
     "company": "Aircall",
-    "title": "Infrastructure Engineer - Database",
+    "title": "Front End / Fullstack Engineer - Messaging Team",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "Permanent Full Time Employee",
@@ -29,44 +25,61 @@
     "hours_risk": "medium",
     "required_years_experience": 3.0,
     "level": "mid",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux",
-      "Sql",
-      "Etl",
-      "Elt",
-      "Spark",
-      "Dbt",
-      "Warehouse"
-    ],
-    "url": "https://jobs.lever.co/aircall/2ff9ad64-c31c-499a-9e9f-b46690c75850",
+    "skills": [],
+    "url": "https://jobs.lever.co/aircall/3ba5369f-e386-4b60-8e69-f22d4f96c5cc",
     "source": "lever:aircall"
   },
   {
     "company": "Aircall",
-    "title": "Senior Backend & Platform Architect",
+    "title": "Full-Stack Senior Software Engineer, AI-Powered Sales Platform",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "Permanent Full Time Employee",
     "min_salary_eur": 75000,
     "max_salary_eur": 100000,
-    "hours_risk": "high",
+    "hours_risk": "medium",
     "required_years_experience": 5.0,
     "level": "senior",
     "skills": [
       "Python",
       "Java",
-      "Apis",
-      "Microservices",
-      "Backend Systems",
-      "Aws",
-      "Terraform",
+      "AWS",
       "Linux",
+      "Terraform",
       "Kubernetes",
       "Reliability"
     ],
-    "url": "https://jobs.lever.co/aircall/194dfd9f-f811-4983-8683-8eed268c49ed",
+    "url": "https://jobs.lever.co/aircall/45c0c639-8590-4df3-a407-2df9116ef1a0",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
+    "title": "Regional Marketing Manager \u2013 Iberia & Italy",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Permanent Full Time Employee",
+    "min_salary_eur": 75000,
+    "max_salary_eur": 100000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.lever.co/aircall/16cff966-98fe-42fe-b175-abf989faf97c",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
+    "title": "Sales Partnerships Intern",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Internship",
+    "min_salary_eur": 50000,
+    "max_salary_eur": 65000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [],
+    "url": "https://jobs.lever.co/aircall/462b6547-d555-4e5f-b5a2-ea8c2de46101",
     "source": "lever:aircall"
   },
   {
@@ -88,7 +101,7 @@
       "AWS",
       "Microservices"
     ],
-    "url": "https://jobs.lever.co/aircall/9f292a2f-2079-4fa9-a90b-299875879140",
+    "url": "https://jobs.lever.co/aircall/fd2ffbc4-8b6c-41b5-af41-cd2ec540aa6c",
     "source": "lever:aircall"
   },
   {
@@ -108,7 +121,7 @@
       "ELT",
       "Spark",
       "Python",
-      "Dbt",
+      "dbt",
       "Warehouse"
     ],
     "url": "https://jobs.lever.co/aircall/944528a4-a3b7-42b8-a044-b0f653ee6f63",
@@ -116,7 +129,7 @@
   },
   {
     "company": "Aircall",
-    "title": "Senior Frontend Engineer",
+    "title": "Senior Product Designer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "Permanent Full Time Employee",
@@ -126,22 +139,7 @@
     "required_years_experience": 5.0,
     "level": "senior",
     "skills": [],
-    "url": "https://jobs.lever.co/aircall/a74acee3-8f11-4d32-a879-baaf12875601",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
-    "title": "Senior Fullstack Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://jobs.lever.co/aircall/b7b08b8b-7c7c-4565-9890-5700fc2a5c41",
+    "url": "https://jobs.lever.co/aircall/cce487d3-5e51-45c8-b38d-a84cb54ee81a",
     "source": "lever:aircall"
   },
   {
@@ -161,7 +159,27 @@
       "AWS",
       "Linux"
     ],
-    "url": "https://jobs.lever.co/aircall/aba9cab8-d916-43bf-b123-9e16f308b55b",
+    "url": "https://jobs.lever.co/aircall/60a4ed92-3518-4963-add4-f67e4d1ffee3",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
+    "title": "Senior Software Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Permanent Full Time Employee",
+    "min_salary_eur": 75000,
+    "max_salary_eur": 100000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/aircall/af07bec4-c92b-49f2-a2f0-079f43560cbf",
     "source": "lever:aircall"
   },
   {
@@ -180,11 +198,31 @@
       "Java",
       "AWS",
       "Linux",
-      "Apis",
+      "APIs",
       "Microservices",
       "Backend Systems"
     ],
     "url": "https://jobs.lever.co/aircall/c24787f2-7188-448f-9ac5-fe87921ad077",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
+    "title": "Senior Staff Software Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Permanent Full Time Employee",
+    "min_salary_eur": 95000,
+    "max_salary_eur": 125000,
+    "hours_risk": "high",
+    "required_years_experience": 7.0,
+    "level": "staff",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/aircall/4f4b1f6f-55b3-4644-bf00-25dd0f5c4da0",
     "source": "lever:aircall"
   },
   {
@@ -209,6 +247,66 @@
   },
   {
     "company": "Aircall",
+    "title": "Software Engineer - Outbound Campaigns",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Permanent Full Time Employee",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/aircall/0f430b14-c3e0-4b76-ba37-69b103c62ddb",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
+    "title": "Software engineer, Programmable Comms",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Permanent Full Time Employee",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/aircall/2660fcee-a9c3-4f83-ac2c-2ab0f0c0828c",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
+    "title": "Software Engineering Manager",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "Permanent Full Time Employee",
+    "min_salary_eur": 75000,
+    "max_salary_eur": 100000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/aircall/c542dde5-a39f-4555-a923-9366bbea07b0",
+    "source": "lever:aircall"
+  },
+  {
+    "company": "Aircall",
     "title": "Staff AI Software Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -229,7 +327,7 @@
   },
   {
     "company": "Aircall",
-    "title": "Staff Engineer",
+    "title": "Staff Backend & AI Engineer, Madrid",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "Permanent Full Time Employee",
@@ -238,23 +336,34 @@
     "hours_risk": "high",
     "required_years_experience": 7.0,
     "level": "staff",
-    "skills": [],
-    "url": "https://jobs.lever.co/aircall/aecded17-9d52-40f0-931a-52054478c3da",
+    "skills": [
+      "Python",
+      "Java",
+      "APIs",
+      "Microservices",
+      "Backend Systems"
+    ],
+    "url": "https://jobs.lever.co/aircall/d093fdcb-f648-46e1-8b4f-8e547ebe673c",
     "source": "lever:aircall"
   },
   {
     "company": "Aircall",
-    "title": "VoIP Engineer",
+    "title": "Staff Software Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://jobs.lever.co/aircall/04eda602-5186-4257-9f96-0d3cafda7ce8",
+    "min_salary_eur": 95000,
+    "max_salary_eur": 125000,
+    "hours_risk": "high",
+    "required_years_experience": 7.0,
+    "level": "staff",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/aircall/44a07b77-941c-4007-a9b5-5f321c42b2f8",
     "source": "lever:aircall"
   }
 ]

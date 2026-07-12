@@ -1,72 +1,6 @@
 [
   {
     "company": "Aircall",
-    "title": "Infrastructure Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux"
-    ],
-    "url": "https://jobs.lever.co/aircall/a0b5380d-de63-440b-bdb8-204315d8b11b",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
-    "title": "Infrastructure Engineer - Database",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux",
-      "Sql",
-      "Etl",
-      "Elt",
-      "Spark",
-      "Dbt",
-      "Warehouse"
-    ],
-    "url": "https://jobs.lever.co/aircall/2ff9ad64-c31c-499a-9e9f-b46690c75850",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
-    "title": "Senior Backend Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "APIs",
-      "Backend Systems",
-      "AWS",
-      "Microservices"
-    ],
-    "url": "https://jobs.lever.co/aircall/9f292a2f-2079-4fa9-a90b-299875879140",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
     "title": "Senior Data Engineer - Real time analytics",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -82,73 +16,10 @@
       "ELT",
       "Spark",
       "Python",
-      "Dbt",
+      "dbt",
       "Warehouse"
     ],
     "url": "https://jobs.lever.co/aircall/944528a4-a3b7-42b8-a044-b0f653ee6f63",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
-    "title": "Senior Software Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.lever.co/aircall/aba9cab8-d916-43bf-b123-9e16f308b55b",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
-    "title": "Senior Software Engineer - Backend",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "Apis",
-      "Microservices",
-      "Backend Systems"
-    ],
-    "url": "https://jobs.lever.co/aircall/c24787f2-7188-448f-9ac5-fe87921ad077",
-    "source": "lever:aircall"
-  },
-  {
-    "company": "Aircall",
-    "title": "Software Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.lever.co/aircall/7eec7634-230e-4f21-a0b4-0e2da7e78f7f",
     "source": "lever:aircall"
   }
 ]

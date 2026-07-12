@@ -1,7 +1,7 @@
 [
   {
     "company": "Typeform",
-    "title": "Account Executive - EU",
+    "title": "Full Stack Developer ",
     "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -11,52 +11,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7851798",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
-    "title": "Creative Project Manager",
-    "location": "Ireland (Remote); Netherlands (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7518854",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
-    "title": "Data Platform Engineer - Fixed Term Contract",
-    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7850909",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
-    "title": "Finance Controller",
-    "location": "Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7811563",
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7942504",
     "source": "greenhouse:typeform"
   },
   {
@@ -76,7 +31,22 @@
   },
   {
     "company": "Typeform",
-    "title": "IT Engineer (Contractor)",
+    "title": "Lead Product Manager - Growth",
+    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States (Remote) ",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7947181",
+    "source": "greenhouse:typeform"
+  },
+  {
+    "company": "Typeform",
+    "title": "Product Designer - Integration",
     "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -86,37 +56,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7768849",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
-    "title": "Lead Product Manager - Data Capture",
-    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7858485",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
-    "title": "Product Designer (Formless)",
-    "location": "Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7510869",
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7913052",
     "source": "greenhouse:typeform"
   },
   {
@@ -136,21 +76,6 @@
   },
   {
     "company": "Typeform",
-    "title": "Senior IT Engineer",
-    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7768828",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
     "title": "Senior Product Manager - Analytics",
     "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States (Remote) ",
     "remote_type": "remote",
@@ -166,7 +91,7 @@
   },
   {
     "company": "Typeform",
-    "title": "Senior Product Manager - Blocks",
+    "title": "Senior Product Manager - Integrations ",
     "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -176,13 +101,13 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7700210",
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7898715",
     "source": "greenhouse:typeform"
   },
   {
     "company": "Typeform",
-    "title": "Strategic People Partner Lead - EU",
-    "location": "Germany (Remote) ; Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
+    "title": "Senior Web Strategist",
+    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
     "remote_type": "remote",
     "employment_type": "full-time",
     "min_salary_eur": null,
@@ -191,7 +116,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7663157",
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/7457853",
     "source": "greenhouse:typeform"
   }
 ]

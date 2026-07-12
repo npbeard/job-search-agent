@@ -5,8 +5,8 @@ __pycache__/
 .env
 dist/
 build/
+*.egg-info/
 .pytest_cache/
 config/profile.local.json
-config/profile.nicolas.json
 context.txt
 .ui.pid

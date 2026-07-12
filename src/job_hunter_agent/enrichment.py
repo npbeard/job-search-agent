@@ -18,10 +18,10 @@ LEVEL_KEYWORDS = [
 ]
 
 ROLE_SKILL_HINTS = {
-    "data": ["sql", "etl", "elt", "spark", "dbt", "warehouse"],
-    "backend": ["python", "java", "apis", "microservices", "backend systems"],
-    "platform": ["aws", "terraform", "linux", "kubernetes", "reliability"],
-    "sre": ["linux", "terraform", "aws", "reliability", "incident"],
+    "data": ["SQL", "ETL", "ELT", "Spark", "dbt", "Warehouse"],
+    "backend": ["Python", "Java", "APIs", "Microservices", "Backend Systems"],
+    "platform": ["AWS", "Terraform", "Linux", "Kubernetes", "Reliability"],
+    "sre": ["Linux", "Terraform", "AWS", "Reliability", "Incident Response"],
 }
 
 TITLE_SKILL_HINTS = {
@@ -122,7 +122,7 @@ def infer_skills(title: str, existing_skills: list[str]) -> list[str]:
             collected.extend(skills)
     for keyword, skills in ROLE_SKILL_HINTS.items():
         if keyword in lowered:
-            collected.extend(skill.title() if skill.islower() else skill for skill in skills)
+            collected.extend(skills)
     deduped: list[str] = []
     seen: set[str] = set()
     for skill in collected:
@@ -162,6 +162,9 @@ def infer_hours_risk(title: str, current_hours_risk: str) -> str:
     return "medium"
 
 
+SPAIN_CITIES = ["barcelona", "valencia", "seville", "sevilla", "bilbao", "malaga", "zaragoza"]
+
+
 def normalize_location(location: str) -> str:
     lowered = location.lower()
     if "madrid" in lowered:
@@ -172,6 +175,10 @@ def normalize_location(location: str) -> str:
     # If Spain appears in a multi-location string, treat as Spain-remote
     if "spain" in lowered and (";" in location or "|" in location):
         return "Remote - Spain"
+    # Keep specific Spanish cities as-is instead of mislabeling them remote
+    for city in SPAIN_CITIES:
+        if city in lowered:
+            return f"{city.title()}, Spain"
     if "spain" in lowered:
         return "Remote - Spain"
     return location

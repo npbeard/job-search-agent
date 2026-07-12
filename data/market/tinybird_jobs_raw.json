@@ -1,21 +1,6 @@
 [
   {
     "company": "Tinybird",
-    "title": "Backend Engineer - Platform",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "Remote",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.lever.co/tinybird/d3a9d557-a075-481b-a529-d73c35775f66",
-    "source": "lever:tinybird"
-  },
-  {
-    "company": "Tinybird",
     "title": "Open Application",
     "location": "Spain",
     "remote_type": "onsite",
@@ -31,7 +16,7 @@
   },
   {
     "company": "Tinybird",
-    "title": "Site Reliability Engineer",
+    "title": "Product Engineer (SDK, CLI & Interfaces)",
     "location": "Spain",
     "remote_type": "onsite",
     "employment_type": "Remote",
@@ -41,7 +26,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://jobs.lever.co/tinybird/66025e00-2913-4ac8-8bd4-fd7e7b6b8aa7",
+    "url": "https://jobs.lever.co/tinybird/c32d4a88-ed3a-4b12-9167-3ae5ff893d61",
     "source": "lever:tinybird"
   }
 ]
