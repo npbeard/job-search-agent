@@ -20,7 +20,7 @@ import streamlit as st
 
 from job_hunter_agent.contacts import load_contacts, rank_contacts
 from job_hunter_agent.emails import build_cold_email, guess_company_domain, guess_email_addresses
-from job_hunter_agent.enrichment import is_job_relevant
+from job_hunter_agent.enrichment import is_job_relevant, location_parts
 from job_hunter_agent.jobs import load_jobs, rank_jobs
 from job_hunter_agent.market import discover_job_files, merge_job_files
 from job_hunter_agent.messages import build_outreach_drafts
@@ -135,6 +135,10 @@ with st.sidebar:
                 refresh_report = refresh_live_market(str(profile_path))
         except Exception as exc:  # noqa: BLE001 - fall back to the committed dataset
             st.warning(f"Live refresh failed ({exc}); using the last saved dataset.")
+    if refresh_report:
+        skipped = [item for item in refresh_report["companies"] if item.get("error")]
+        for item in skipped:
+            st.caption(f"⚠️ {item['company']} skipped: {item['error']}")
 
     st.divider()
     with st.expander("🎛 Tune profile", expanded=True):
@@ -198,13 +202,21 @@ drafts = build_outreach_drafts(profile, suggestions, limit=10)
 search_queries = generate_contact_search_queries(profile, ranked_jobs, limit_jobs=10)
 
 companies = sorted({item.job.company for item in ranked_jobs})
+countries = sorted({location_parts(item.job.location)[1] for item in ranked_jobs})
+cities = sorted({location_parts(item.job.location)[0] for item in ranked_jobs})
 with st.sidebar:
     company_filter = st.selectbox("Company", ["All companies", *companies])
+    country_filter = st.selectbox("Country / region", ["All countries", *countries])
+    city_filter = st.selectbox("City", ["All cities", *cities], help="Remote roles are grouped under the city “Remote”.")
 
 filtered = [item for item in ranked_jobs if item.score >= min_score]
 if company_filter != "All companies":
     filtered = [item for item in filtered if item.job.company == company_filter]
-elif view_mode == "Balanced shortlist":
+if country_filter != "All countries":
+    filtered = [item for item in filtered if location_parts(item.job.location)[1] == country_filter]
+if city_filter != "All cities":
+    filtered = [item for item in filtered if location_parts(item.job.location)[0] == city_filter]
+if company_filter == "All companies" and view_mode == "Balanced shortlist":
     filtered = balanced_shortlist(filtered)
 
 # ---------------------------------------------------------------------- header

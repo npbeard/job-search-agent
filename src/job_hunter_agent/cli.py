@@ -158,6 +158,9 @@ def _refresh_market(
         merged_output_path=merged_output,
     )
     for item in report["companies"]:
+        if item.get("error"):
+            print(f"{item['company']}: SKIPPED ({item['error']})")
+            continue
         print(
             f"{item['company']}: raw={item['raw_jobs']} relevant={item['relevant_jobs']} "
             f"provider={item['provider']} file={item['relevant_path']}"

@@ -3,6 +3,8 @@ from __future__ import annotations
 from pathlib import Path
 
 from job_hunter_agent.collectors import (
+    CollectionError,
+    fetch_adzuna_jobs,
     fetch_ashby_jobs,
     fetch_greenhouse_jobs,
     fetch_lever_jobs,
@@ -37,7 +39,24 @@ def refresh_market_dataset(
         company = company_config["company"]
         provider = company_config["provider"]
         location_filter = company_config.get("location_filter")
-        raw_jobs = collect_company_jobs(company_config, root)
+        try:
+            raw_jobs = collect_company_jobs(company_config, root)
+        except CollectionError as exc:
+            # One flaky or unconfigured source must not kill the whole refresh.
+            results.append(
+                {
+                    "company": company,
+                    "provider": provider,
+                    "location_filter": location_filter,
+                    "raw_jobs": 0,
+                    "relevant_jobs": 0,
+                    "raw_path": "",
+                    "enriched_path": "",
+                    "relevant_path": "",
+                    "error": str(exc),
+                }
+            )
+            continue
         enriched_jobs = enrich_jobs(raw_jobs, salary_bands, profile)
         relevant_jobs = [job for job in enriched_jobs if is_job_relevant(profile, job)[0]]
 
@@ -60,6 +79,7 @@ def refresh_market_dataset(
                 "raw_path": str(raw_path),
                 "enriched_path": str(enriched_path),
                 "relevant_path": str(relevant_path),
+                "error": None,
             }
         )
 
@@ -95,6 +115,15 @@ def collect_company_jobs(company_config: dict, repo_root: Path) -> list[JobOppor
             location=company_config.get("location", "Madrid, Spain"),
             categories=tuple(company_config.get("categories", ["Software Engineering", "Data and Analytics"])),
             max_pages=int(company_config.get("max_pages", 3)),
+        )
+    if provider == "adzuna":
+        # Aggregator: needs ADZUNA_APP_ID / ADZUNA_APP_KEY in the environment.
+        return fetch_adzuna_jobs(
+            country=company_config.get("country", "es"),
+            where=company_config.get("where", "Madrid"),
+            what=company_config.get("what", "engineer"),
+            category=company_config.get("category", "it-jobs"),
+            max_pages=int(company_config.get("max_pages", 2)),
         )
     if provider == "manual":
         input_path = company_config.get("input_path")

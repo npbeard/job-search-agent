@@ -73,6 +73,16 @@
       "categories": ["Software Engineering", "Data and Analytics"],
       "max_pages": 10,
       "priority": "discovery"
+    },
+    {
+      "company": "Adzuna (Spain aggregator)",
+      "provider": "adzuna",
+      "country": "es",
+      "where": "Madrid",
+      "what": "engineer",
+      "category": "it-jobs",
+      "max_pages": 2,
+      "priority": "discovery"
     }
   ]
 }

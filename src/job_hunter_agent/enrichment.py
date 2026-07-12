@@ -184,6 +184,29 @@ def normalize_location(location: str) -> str:
     return location
 
 
+SPAIN_REGION_MARKERS = ["spain", "comunidad de madrid", "cataluña", "catalonia", "andaluc", "país vasco", "basque"]
+
+
+def location_parts(location: str) -> tuple[str, str]:
+    """Split a free-form job location into (city, country) for filtering.
+
+    Remote listings report city "Remote" and their eligible region as country.
+    """
+    text = location.strip()
+    lowered = text.lower()
+    if lowered.startswith("remote"):
+        region = text.split("-", 1)[1].strip() if "-" in text else "Anywhere"
+        return "Remote", region or "Anywhere"
+    parts = [part.strip() for part in text.split(",") if part.strip()]
+    if not parts:
+        return "Unknown", "Unknown"
+    city = parts[0]
+    country = parts[-1] if len(parts) > 1 else ""
+    if any(marker in lowered for marker in SPAIN_REGION_MARKERS):
+        country = "Spain"
+    return city, country or "Unknown"
+
+
 def is_job_relevant(profile: CandidateProfile, job: JobOpportunity) -> tuple[bool, list[str]]:
     reasons: list[str] = []
     title = job.title.lower()

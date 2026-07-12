@@ -6,6 +6,7 @@ from job_hunter_agent.enrichment import (
     infer_salary,
     infer_skills,
     is_job_relevant,
+    location_parts,
     normalize_location,
     normalize_target_titles,
 )
@@ -65,6 +66,18 @@ def test_normalize_location_keeps_spanish_cities():
 
 def test_normalize_location_passthrough():
     assert normalize_location("Berlin, Germany") == "Berlin, Germany"
+
+
+def test_location_parts():
+    assert location_parts("Madrid, Spain") == ("Madrid", "Spain")
+    assert location_parts("Barcelona, Spain") == ("Barcelona", "Spain")
+    assert location_parts("Remote - Spain") == ("Remote", "Spain")
+    assert location_parts("Remote - Europe") == ("Remote", "Europe")
+    assert location_parts("Remote") == ("Remote", "Anywhere")
+    assert location_parts("Madrid, Comunidad de Madrid") == ("Madrid", "Spain")
+    assert location_parts("Berlin, Germany") == ("Berlin", "Germany")
+    assert location_parts("Paris") == ("Paris", "Unknown")
+    assert location_parts("") == ("Unknown", "Unknown")
 
 
 def test_is_job_relevant_accepts_target_title(profile):

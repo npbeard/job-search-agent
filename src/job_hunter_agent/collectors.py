@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+import os
 import re
 import urllib.error
 import urllib.parse
@@ -186,6 +187,66 @@ def fetch_themuse_jobs(
                 )
             )
         if page >= int(payload.get("page_count") or 1):
+            break
+    return jobs
+
+
+def fetch_adzuna_jobs(
+    country: str = "es",
+    where: str = "Madrid",
+    what: str = "engineer",
+    category: str = "it-jobs",
+    max_pages: int = 2,
+    app_id: str | None = None,
+    app_key: str | None = None,
+) -> list[JobOpportunity]:
+    """Fetch jobs across many companies from the Adzuna API (free key required).
+
+    Credentials come from arguments or the ADZUNA_APP_ID / ADZUNA_APP_KEY
+    environment variables (Streamlit secrets are exposed as env vars too).
+    """
+    app_id = app_id or os.environ.get("ADZUNA_APP_ID", "")
+    app_key = app_key or os.environ.get("ADZUNA_APP_KEY", "")
+    if not app_id or not app_key:
+        raise CollectionError(
+            "Adzuna credentials missing: set ADZUNA_APP_ID and ADZUNA_APP_KEY "
+            "(free key at https://developer.adzuna.com)"
+        )
+    jobs: list[JobOpportunity] = []
+    for page in range(1, max_pages + 1):
+        params = urllib.parse.urlencode(
+            {
+                "app_id": app_id,
+                "app_key": app_key,
+                "results_per_page": 50,
+                "what": what,
+                "where": where,
+                "category": category,
+                "content-type": "application/json",
+            }
+        )
+        url = f"https://api.adzuna.com/v1/api/jobs/{urllib.parse.quote(country)}/search/{page}?{params}"
+        payload = _fetch_json(url)
+        results = payload.get("results", [])
+        for item in results:
+            location = item.get("location", {}).get("display_name", "") or "Unknown"
+            min_salary = item.get("salary_min")
+            max_salary = item.get("salary_max")
+            jobs.append(
+                JobOpportunity(
+                    company=item.get("company", {}).get("display_name", "Unknown"),
+                    title=item.get("title", ""),
+                    location=location,
+                    remote_type=_infer_remote_type(f"{item.get('title', '')} {location}"),
+                    employment_type=item.get("contract_time") or "full-time",
+                    min_salary_eur=int(min_salary) if min_salary else None,
+                    max_salary_eur=int(max_salary) if max_salary else None,
+                    skills=[],
+                    url=item.get("redirect_url", ""),
+                    source="adzuna",
+                )
+            )
+        if len(results) < 50:
             break
     return jobs
 

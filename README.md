@@ -47,13 +47,25 @@ Sources are configured in `config/market_targets.madrid.json` and come in two ki
 
 - **Company boards** (`lever`, `greenhouse`, `ashby`, `manual`): a curated list of
   target companies; jobs are fetched live from each board.
-- **Aggregators** (`remotive`, `themuse`): discover jobs across *any* company matching
-  your location and category filters — new companies appear automatically. Note that
-  Remotive's free API serves only its latest postings and asks for ≤ ~4 calls/day
-  (the app's 6-hour cache respects that).
+- **Aggregators** (`remotive`, `themuse`, `adzuna`): discover jobs across *any* company
+  matching your location and category filters — new companies appear automatically. Note
+  that Remotive's free API serves only its latest postings and asks for ≤ ~4 calls/day
+  (the app's 6-hour cache respects that). Adzuna needs a free API key: sign up at
+  https://developer.adzuna.com and set `ADZUNA_APP_ID` / `ADZUNA_APP_KEY` (env vars
+  locally, app secrets on Streamlit Cloud, repo secrets for GitHub Actions). Without a
+  key the Adzuna source is skipped gracefully.
 
 Duplicate roles found via both a company board and an aggregator are merged
-(board version wins).
+(board version wins). A failing source is reported and skipped — it never breaks
+the rest of the refresh.
+
+### Scheduled refresh
+
+`.github/workflows/refresh-jobs.yml` runs the full refresh daily at 05:30 UTC and
+commits updated `data/` files, which also redeploys the Streamlit app — so the
+dataset stays fresh even when nobody visits. You can trigger it manually from the
+GitHub Actions tab (Run workflow). The Streamlit app additionally refreshes live
+on page load with a 6-hour cache.
 
 ## Project layout
 

@@ -1,8 +1,12 @@
 from __future__ import annotations
 
+import pytest
+
 from job_hunter_agent import collectors
 from job_hunter_agent.collectors import (
+    CollectionError,
     _parse_salary_text,
+    fetch_adzuna_jobs,
     fetch_ashby_jobs,
     fetch_remotive_jobs,
     fetch_themuse_jobs,
@@ -127,6 +131,43 @@ def test_fetch_ashby_jobs(monkeypatch):
     assert len(all_jobs) == 2
     assert all_jobs[1].location == "Remote - Europe"
     assert all_jobs[1].remote_type == "remote"
+
+
+def test_fetch_adzuna_requires_credentials(monkeypatch):
+    monkeypatch.delenv("ADZUNA_APP_ID", raising=False)
+    monkeypatch.delenv("ADZUNA_APP_KEY", raising=False)
+    with pytest.raises(CollectionError, match="credentials missing"):
+        fetch_adzuna_jobs()
+
+
+def test_fetch_adzuna_jobs(monkeypatch):
+    monkeypatch.setenv("ADZUNA_APP_ID", "id")
+    monkeypatch.setenv("ADZUNA_APP_KEY", "key")
+    _patch_fetch(
+        monkeypatch,
+        {
+            "adzuna.com": {
+                "results": [
+                    {
+                        "title": "Data Engineer",
+                        "company": {"display_name": "AdzunaCo"},
+                        "location": {"display_name": "Madrid, Comunidad de Madrid"},
+                        "salary_min": 55000.0,
+                        "salary_max": 70000.0,
+                        "contract_time": "full_time",
+                        "redirect_url": "https://adzuna.com/j/1",
+                    }
+                ]
+            }
+        },
+    )
+    jobs = fetch_adzuna_jobs(max_pages=3)
+    # fewer than 50 results on page 1 stops pagination
+    assert len(jobs) == 1
+    job = jobs[0]
+    assert job.company == "AdzunaCo"
+    assert (job.min_salary_eur, job.max_salary_eur) == (55000, 70000)
+    assert job.source == "adzuna"
 
 
 def test_parse_salary_text():
