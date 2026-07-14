@@ -99,6 +99,32 @@
   },
   {
     "company": "Affirm",
+    "title": "Software Engineer II , Backend, (Furnishing Platform) ",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "APIs",
+      "Microservices",
+      "Backend Systems",
+      "Terraform",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799346003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Staff Software Engineer",
     "location": "Remote - Spain",
     "remote_type": "remote",

@@ -88,35 +88,5 @@
     "skills": [],
     "url": "https://remotive.com/remote-jobs/software-development/frontend-developer-2090991",
     "source": "remotive"
-  },
-  {
-    "company": "Lemon.io",
-    "title": "Head of Engineering",
-    "location": "Remote - LATAM, Europe, Central America",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://remotive.com/remote-jobs/software-development/head-of-engineering-2090983",
-    "source": "remotive"
-  },
-  {
-    "company": "Lemon.io",
-    "title": "Senior Data Scientist",
-    "location": "Remote - Americas, Europe, Asia, Oceania",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2090982",
-    "source": "remotive"
   }
 ]
