@@ -61,6 +61,21 @@
   },
   {
     "company": "Affirm",
+    "title": "Senior Software Engineer, Mobile (Repayment UX)",
+    "location": "Remote Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Software Engineer II , Backend, (Furnishing Platform) ",
     "location": "Remote Spain",
     "remote_type": "remote",

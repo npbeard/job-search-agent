@@ -16,6 +16,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Customer Architect",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "high",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8059843&gh_jid=8059843",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Deal Desk Analyst (EMEA)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -31,6 +46,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Demand Manager",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8059793&gh_jid=8059793",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Inside Account Executive (German speaker)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -42,28 +72,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8050806&gh_jid=8050806",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Principal Data Scientist - Agent Builder",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 145000,
-    "max_salary_eur": 190000,
-    "hours_risk": "high",
-    "required_years_experience": 9.0,
-    "level": "principal",
-    "skills": [
-      "SQL",
-      "ETL",
-      "ELT",
-      "Spark",
-      "dbt",
-      "Warehouse"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8008494&gh_jid=8008494",
     "source": "greenhouse:elastic"
   },
   {
@@ -153,6 +161,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Sales Development Representative, MENA (Arabic speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8055539&gh_jid=8055539",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Sales Development Representative UK&I (English speaking)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -202,21 +225,6 @@
     "level": "senior",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=7190138&gh_jid=7190138",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Senior Java Engineer - Distributed Systems - Elasticsearch",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8001192&gh_jid=8001192",
     "source": "greenhouse:elastic"
   },
   {
