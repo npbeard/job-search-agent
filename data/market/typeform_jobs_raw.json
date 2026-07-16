@@ -16,21 +16,6 @@
   },
   {
     "company": "Typeform",
-    "title": "Head of Creative",
-    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States (Remote) ",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7700412",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
     "title": "Lead Product Manager - Growth",
     "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ; United States (Remote) ",
     "remote_type": "remote",
@@ -87,6 +72,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/typeform/jobs/7090089",
+    "source": "greenhouse:typeform"
+  },
+  {
+    "company": "Typeform",
+    "title": "Senior Product Manager - Create & Design",
+    "location": "Germany (Remote) ; Ireland (Remote); Netherlands (Remote) ; Portugal (Remote) ; Spain (Remote) ; United Kingdom (Remote) ",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/8066471",
     "source": "greenhouse:typeform"
   },
   {

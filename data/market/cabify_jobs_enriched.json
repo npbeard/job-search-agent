@@ -1,21 +1,6 @@
 [
   {
     "company": "Cabify",
-    "title": "Brand Marketing Activation Analyst",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8604100002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Business Automation Trainee",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -173,21 +158,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Finance Systems Specialist",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8497876002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Fleet Development Success - Key Accounts Specialist",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -199,21 +169,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8617825002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Global Content Intern",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 45000,
-    "max_salary_eur": 60000,
-    "hours_risk": "medium",
-    "required_years_experience": 0.0,
-    "level": "entry",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8627746002",
     "source": "greenhouse:cabify"
   },
   {
@@ -289,6 +244,21 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8287350002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "Marketing Internship - Global Content",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 45000,
+    "max_salary_eur": 60000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8627746002",
     "source": "greenhouse:cabify"
   },
   {

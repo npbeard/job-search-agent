@@ -230,6 +230,21 @@
     "source": "themuse"
   },
   {
+    "company": "Kyndryl",
+    "title": "Infrastructure Specialist",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/kyndryl/infrastructure-specialist-d749ff",
+    "source": "themuse"
+  },
+  {
     "company": "Hitachi Energy",
     "title": ".NET Backend Developer",
     "location": "Barcelona, Spain",
@@ -293,21 +308,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://www.themuse.com/jobs/schneiderelectric/system-integration-application-design-engineer-806626",
-    "source": "themuse"
-  },
-  {
-    "company": "Schneider Electric",
-    "title": "Software  Intelligence Manager",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/software-intelligence-manager",
     "source": "themuse"
   },
   {
