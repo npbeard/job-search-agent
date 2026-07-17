@@ -36,21 +36,6 @@
   },
   {
     "company": "Twilio",
-    "title": "Staff, Technical Account Manager (French Speaker)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 110000,
-    "max_salary_eur": 145000,
-    "hours_risk": "high",
-    "required_years_experience": 7.0,
-    "level": "staff",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8020357",
-    "source": "greenhouse:twilio"
-  },
-  {
-    "company": "Twilio",
     "title": "Strategic Account Executive (German Speaking)",
     "location": "Remote - Spain",
     "remote_type": "remote",

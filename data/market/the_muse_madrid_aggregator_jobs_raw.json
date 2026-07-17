@@ -1,36 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Lead AI Deployment Architect",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/lead-ai-deployment-architect-3b996b",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-scale-emeagermanspeaking-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Management & Technology Consultant - Supply Chain",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -72,6 +42,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Lead Deployment Engineer ",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer",
     "source": "themuse"
   },
   {
@@ -180,21 +165,6 @@
     "source": "themuse"
   },
   {
-    "company": "GE Vernova",
-    "title": "Lead Application R&D Engineer - Grid Automation",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/gevernova/lead-application-rd-engineer-grid-automation-a64b87",
-    "source": "themuse"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Lead Automation QA Engineer  (relocation to Cyprus)",
     "location": "Madrid, Spain",
@@ -282,6 +252,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/schneiderelectric/system-integration-application-design-engineer-806626",
+    "source": "themuse"
+  },
+  {
+    "company": "JPMorgan Chase",
+    "title": "Software Engineer III- React Native- Madrid",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-react-native-madrid",
     "source": "themuse"
   },
   {

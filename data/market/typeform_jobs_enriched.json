@@ -1,21 +1,6 @@
 [
   {
     "company": "Typeform",
-    "title": "Full Stack Developer ",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 65000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/typeform/jobs/7942504",
-    "source": "greenhouse:typeform"
-  },
-  {
-    "company": "Typeform",
     "title": "Lead Product Manager - Growth",
     "location": "Remote - Spain",
     "remote_type": "remote",

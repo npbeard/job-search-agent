@@ -181,21 +181,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Developer Advocate",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7190138&gh_jid=7190138",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Product Manager, Logs - Observability",
     "location": "Spain",
     "remote_type": "onsite",
