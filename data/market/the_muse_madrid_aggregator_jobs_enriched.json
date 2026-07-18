@@ -1,6 +1,21 @@
 [
   {
     "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-scale-emeagermanspeaking-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Management & Technology Consultant - Supply Chain",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -47,6 +62,21 @@
       "Linux"
     ],
     "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation",
+    "source": "themuse"
+  },
+  {
+    "company": "Uber",
+    "title": "Operations Manager, Trains",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/uber/operations-manager-trains",
     "source": "themuse"
   },
   {
@@ -236,6 +266,26 @@
     "source": "themuse"
   },
   {
+    "company": "JPMorgan Chase",
+    "title": "Software Engineer III- Back End- Java- Mid Level-  JPM Personal Investing- Madrid",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-back-end-java-mid-level-jpm-personal-investing-madrid",
+    "source": "themuse"
+  },
+  {
     "company": "Infosys",
     "title": "SAP SD, Intercompany S/4 Hana - Spain",
     "location": "Madrid, Spain",
@@ -281,26 +331,6 @@
     "source": "themuse"
   },
   {
-    "company": "JPMorgan Chase",
-    "title": "Software Engineer III- React Native- Madrid",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-react-native-madrid",
-    "source": "themuse"
-  },
-  {
     "company": "TikTok",
     "title": "Agency Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
     "location": "Madrid, Spain",
@@ -313,21 +343,6 @@
     "level": "entry",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
-    "source": "themuse"
-  },
-  {
-    "company": "GE Vernova",
-    "title": "Senior Developer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/gevernova/senior-developer",
     "source": "themuse"
   }
 ]

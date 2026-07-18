@@ -23,6 +23,25 @@
     "source": "lever:aircall"
   },
   {
+    "company": "Tinybird",
+    "title": "Site Reliability Engineer",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux"
+    ],
+    "url": "https://jobs.lever.co/tinybird/87912245-02ab-4c80-83a3-88cde0accc37",
+    "source": "lever:tinybird"
+  },
+  {
     "company": "Cabify",
     "title": "Senior Site Reliability Engineer",
     "location": "Madrid, Spain",
