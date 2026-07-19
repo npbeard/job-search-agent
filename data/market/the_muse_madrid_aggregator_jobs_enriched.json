@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-scale-emeagermanspeaking-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Management & Technology Consultant - Supply Chain",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -215,6 +200,21 @@
     "source": "themuse"
   },
   {
+    "company": "Kyndryl",
+    "title": "Solutions Architect",
+    "location": "Madrid, Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "high",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/kyndryl/solutions-architect-1cec5c",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Lead Automation QA Engineer  (relocation to Cyprus)",
     "location": "Madrid, Spain",
@@ -343,6 +343,21 @@
     "level": "entry",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
+    "source": "themuse"
+  },
+  {
+    "company": "GE Vernova",
+    "title": "Senior Developer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/gevernova/senior-developer",
     "source": "themuse"
   }
 ]
