@@ -61,6 +61,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Inside Account Executive (Arabic speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8067205&gh_jid=8067205",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Inside Account Executive (German speaker)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -72,6 +87,21 @@
     "level": "mid",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8050806&gh_jid=8050806",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8002562&gh_jid=8002562",
     "source": "greenhouse:elastic"
   },
   {
@@ -112,6 +142,21 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8020844&gh_jid=8020844",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Revenue Operations Specialist",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8046246&gh_jid=8046246",
     "source": "greenhouse:elastic"
   },
   {
@@ -199,6 +244,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8001192&gh_jid=8001192",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Product Manager, Logs - Observability",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -225,6 +285,26 @@
     "level": "senior",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8074855&gh_jid=8074855",
     "source": "greenhouse:elastic"
   },
   {

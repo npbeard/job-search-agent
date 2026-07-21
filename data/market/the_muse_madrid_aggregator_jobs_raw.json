@@ -1,6 +1,51 @@
 [
   {
     "company": "Celonis",
+    "title": "Application Product Manager - AI System Transformations",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-apac-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-scale-emeagermanspeaking-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Management & Technology Consultant - Supply Chain",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -150,21 +195,6 @@
     "source": "themuse"
   },
   {
-    "company": "GE Vernova",
-    "title": "Lead Customer Project Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/gevernova/lead-customer-project-engineer-ef829e",
-    "source": "themuse"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Senior Java Developer (German-speaking)",
     "location": "Madrid, Spain",
@@ -270,6 +300,21 @@
     "source": "themuse"
   },
   {
+    "company": "GE Vernova",
+    "title": "Lead Specialist - Total Rewards (Europe)",
+    "location": "Madrid, Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/gevernova/lead-specialist-total-rewards-europe-0c7591",
+    "source": "themuse"
+  },
+  {
     "company": "Kyndryl",
     "title": "Senior SAP Technical Consultant",
     "location": "Madrid, Spain",
@@ -315,8 +360,8 @@
     "source": "themuse"
   },
   {
-    "company": "GE Vernova",
-    "title": "Senior Developer",
+    "company": "Schneider Electric",
+    "title": "UPS Commissioning Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -326,7 +371,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/gevernova/senior-developer",
+    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
     "source": "themuse"
   }
 ]

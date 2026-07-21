@@ -1,6 +1,26 @@
 [
   {
     "company": "Affirm",
+    "title": "Senior Software Engineer, Back-end (Fraud)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Senior Software Engineer, Backend (Identity International)",
     "location": "Remote - Spain",
     "remote_type": "remote",
