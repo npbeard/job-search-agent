@@ -16,6 +16,21 @@
   },
   {
     "company": "Twilio",
+    "title": "Principal Presales Engineer (German Speaking) ",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 125000,
+    "max_salary_eur": 170000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8000178",
+    "source": "greenhouse:twilio"
+  },
+  {
+    "company": "Twilio",
     "title": "Senior Cloud Software Engineer",
     "location": "Remote - Spain",
     "remote_type": "remote",

@@ -1,6 +1,21 @@
 [
   {
     "company": "Tinybird",
+    "title": "Head of Customer Success & Support",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.lever.co/tinybird/343ed37f-0461-4ab5-8938-9f93b58b7c14",
+    "source": "lever:tinybird"
+  },
+  {
+    "company": "Tinybird",
     "title": "Open Application",
     "location": "Remote - Spain",
     "remote_type": "onsite",

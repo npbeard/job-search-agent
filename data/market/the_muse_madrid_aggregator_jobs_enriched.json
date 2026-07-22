@@ -75,26 +75,6 @@
     "source": "themuse"
   },
   {
-    "company": "Celonis",
-    "title": "Senior Software Engineer - Orchestration and Automation",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation",
-    "source": "themuse"
-  },
-  {
     "company": "Uber",
     "title": "Operations Manager, Trains",
     "location": "Madrid, Spain",
@@ -156,6 +136,26 @@
   },
   {
     "company": "Celonis",
+    "title": "Senior Software Engineer - Orchestration and Automation",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Strategic Value & Process Optimisation Consultant - Supply Chain",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -190,28 +190,6 @@
       "Warehouse"
     ],
     "url": "https://www.themuse.com/jobs/epamsystems/senior-data-engineer-palantir-830e26",
-    "source": "themuse"
-  },
-  {
-    "company": "Hitachi Energy",
-    "title": "Digital Data and Analytics Senior Specialist",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "ETL",
-      "ELT",
-      "Spark",
-      "dbt",
-      "Warehouse"
-    ],
-    "url": "https://www.themuse.com/jobs/hitachienergy/digital-data-and-analytics-senior-specialist-738990",
     "source": "themuse"
   },
   {
