@@ -61,29 +61,6 @@
     "source": "greenhouse:cabify"
   },
   {
-    "company": "Elastic",
-    "title": "Senior AI Data Engineer",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "ETL",
-      "ELT",
-      "Spark",
-      "Python",
-      "dbt",
-      "Warehouse"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7989242&gh_jid=7989242",
-    "source": "greenhouse:elastic"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Senior Data Engineer (Palantir)",
     "location": "Madrid, Spain",

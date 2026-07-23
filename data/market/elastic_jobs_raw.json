@@ -106,6 +106,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Product Manager, Telemetry Collection - Observability ",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8081011&gh_jid=8081011",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -211,21 +226,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior AI Data Engineer",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7989242&gh_jid=7989242",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -282,6 +282,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8074855&gh_jid=8074855",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Software Engineer II - Full Stack - Web Engineering",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8080263&gh_jid=8080263",
     "source": "greenhouse:elastic"
   },
   {

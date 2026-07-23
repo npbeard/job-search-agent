@@ -106,6 +106,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Product Manager, Telemetry Collection - Observability ",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8081011&gh_jid=8081011",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -221,29 +236,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior AI Data Engineer",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "ETL",
-      "ELT",
-      "Spark",
-      "Python",
-      "dbt",
-      "Warehouse"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7989242&gh_jid=7989242",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -305,6 +297,26 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8074855&gh_jid=8074855",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Software Engineer II - Full Stack - Web Engineering",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8080263&gh_jid=8080263",
     "source": "greenhouse:elastic"
   },
   {

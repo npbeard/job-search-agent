@@ -193,6 +193,28 @@
     "source": "themuse"
   },
   {
+    "company": "Suntory Global Spirits",
+    "title": "Analyst - Demand Planning Data Modeling",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
+      "dbt",
+      "Warehouse"
+    ],
+    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/analyst-demand-planning-data-modeling",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Senior Java Developer (German-speaking)",
     "location": "Madrid, Spain",
