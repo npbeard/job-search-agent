@@ -1,6 +1,36 @@
 [
   {
     "company": "Celonis",
+    "title": "Accounts Receivable Specialist (German-Speaking)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/accounts-receivable-specialist-germanspeaking",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-orbit-program-madridbased",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Application Product Manager - AI System Transformations",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -61,21 +91,6 @@
   },
   {
     "company": "Celonis",
-    "title": "IT Service Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/it-service-engineer-3dd07f",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Lead Deployment Engineer ",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -87,21 +102,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Intern Demo Experience & Applied AI",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/intern-demo-experience-applied-ai-9dbd03",
     "source": "themuse"
   },
   {
@@ -132,6 +132,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Strategic Pricing Graduate Internship (12 months contract)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/strategic-pricing-graduate-internship-12-months-contract",
     "source": "themuse"
   },
   {
@@ -330,8 +345,8 @@
     "source": "themuse"
   },
   {
-    "company": "Schneider Electric",
-    "title": "UPS Commissioning Engineer",
+    "company": "Suntory Global Spirits",
+    "title": "Analyst - Demand Planning Data Modeling",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -341,7 +356,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
+    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/analyst-demand-planning-data-modeling",
     "source": "themuse"
   }
 ]
