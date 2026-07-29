@@ -31,21 +31,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Business Performance Specialist - Fleet",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8622110002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Collections Global Manager",
     "location": "Madrid, Spain",
     "remote_type": "onsite",

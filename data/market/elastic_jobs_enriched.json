@@ -236,6 +236,26 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Software Engineer - Search Relevance in ES|QL - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8091526&gh_jid=8091526",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
