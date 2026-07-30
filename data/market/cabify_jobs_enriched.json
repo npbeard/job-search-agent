@@ -113,21 +113,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Efficiency Services Specialist (Temporary)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8592194002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Finance Internship",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -169,21 +154,6 @@
     "level": "entry",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8605299002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Growth Demand Analyst",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8547012002",
     "source": "greenhouse:cabify"
   },
   {
