@@ -46,21 +46,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Demand Manager",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8059793&gh_jid=8059793",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Inside Account Executive (Arabic & French speaking)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -76,6 +61,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Inside Account Executive (French speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Inside Account Executive (German speaker)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -87,6 +87,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8050806&gh_jid=8050806",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Inside Account Executive - UKI (English speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8091978&gh_jid=8091978",
     "source": "greenhouse:elastic"
   },
   {
@@ -136,21 +151,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Revenue Operations Specialist",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8046246&gh_jid=8046246",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Sales Development Representative - Barcelona (Hybrid)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -177,6 +177,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8035491&gh_jid=8035491",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Sales Strategy & Operations Specialist",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8046246&gh_jid=8046246",
     "source": "greenhouse:elastic"
   },
   {

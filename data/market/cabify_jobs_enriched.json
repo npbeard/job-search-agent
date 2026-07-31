@@ -128,6 +128,21 @@
   },
   {
     "company": "Cabify",
+    "title": "Fleet Development Success Analyst",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8658273002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Fleet Development Success - Key Accounts Specialist",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -259,6 +274,21 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8161757002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "Paid Media Trainee",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8557792002",
     "source": "greenhouse:cabify"
   },
   {
