@@ -325,62 +325,6 @@
     "source": "themuse"
   },
   {
-    "company": "Kyndryl",
-    "title": "Infrastructure Specialist",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/kyndryl/infrastructure-specialist-d749ff",
-    "source": "themuse"
-  },
-  {
-    "company": "Hitachi Energy",
-    "title": ".NET Backend Developer",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "APIs",
-      "Microservices",
-      "Backend Systems"
-    ],
-    "url": "https://www.themuse.com/jobs/hitachienergy/net-backend-developer-42b614",
-    "source": "themuse"
-  },
-  {
-    "company": "JPMorgan Chase",
-    "title": "Software Engineer III- Back End- Java- Mid Level-  JPM Personal Investing- Madrid",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-back-end-java-mid-level-jpm-personal-investing-madrid",
-    "source": "themuse"
-  },
-  {
     "company": "Infosys",
     "title": "SAP SD, Intercompany S/4 Hana - Spain",
     "location": "Madrid, Spain",
@@ -438,6 +382,21 @@
     "level": "entry",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
+    "source": "themuse"
+  },
+  {
+    "company": "Schneider Electric",
+    "title": "UPS Commissioning Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
     "source": "themuse"
   }
 ]

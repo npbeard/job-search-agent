@@ -121,6 +121,26 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Software Engineer - Relevance in ES|QL - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8098420&gh_jid=8098420",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Software Engineer - Search Infra - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",

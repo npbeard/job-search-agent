@@ -300,51 +300,6 @@
     "source": "themuse"
   },
   {
-    "company": "Kyndryl",
-    "title": "Infrastructure Specialist",
-    "location": "Tres Cantos, Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/kyndryl/infrastructure-specialist-d749ff",
-    "source": "themuse"
-  },
-  {
-    "company": "Hitachi Energy",
-    "title": ".NET Backend Developer",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/hitachienergy/net-backend-developer-42b614",
-    "source": "themuse"
-  },
-  {
-    "company": "JPMorgan Chase",
-    "title": "Software Engineer III- Back End- Java- Mid Level-  JPM Personal Investing- Madrid",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/jpmorganchase/software-engineer-iii-back-end-java-mid-level-jpm-personal-investing-madrid",
-    "source": "themuse"
-  },
-  {
     "company": "Infosys",
     "title": "SAP SD, Intercompany S/4 Hana - Spain",
     "location": "Madrid, Spain",
@@ -402,6 +357,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
+    "source": "themuse"
+  },
+  {
+    "company": "Schneider Electric",
+    "title": "UPS Commissioning Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
     "source": "themuse"
   }
 ]

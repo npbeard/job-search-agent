@@ -1,6 +1,28 @@
 [
   {
     "company": "Tinybird",
+    "title": "Backend Engineer",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "Remote",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "APIs",
+      "Backend Systems",
+      "AWS",
+      "Microservices"
+    ],
+    "url": "https://jobs.lever.co/tinybird/258beb58-f081-45a3-b30e-81c1359536c5",
+    "source": "lever:tinybird"
+  },
+  {
+    "company": "Tinybird",
     "title": "Head of Customer Success & Support",
     "location": "Remote - Spain",
     "remote_type": "onsite",
