@@ -76,21 +76,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Inside Account Executive (German speaker)",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8050806&gh_jid=8050806",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Inside Account Executive - UKI (English speaking)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
