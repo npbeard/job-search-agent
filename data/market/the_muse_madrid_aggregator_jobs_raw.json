@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Application Product Manager - AI System Transformations",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations-a49ebd",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Accounts Receivable Specialist (German-Speaking)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -357,6 +342,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
+    "source": "themuse"
+  },
+  {
+    "company": "Schneider Electric",
+    "title": "UPS Commissioning Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
     "source": "themuse"
   }
 ]
