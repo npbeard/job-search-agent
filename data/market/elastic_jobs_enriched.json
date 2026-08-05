@@ -316,6 +316,29 @@
   },
   {
     "company": "Elastic",
+    "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "Terraform",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7976542&gh_jid=7976542",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Solution Architect (Pre-sales)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",

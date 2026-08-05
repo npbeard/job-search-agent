@@ -166,21 +166,6 @@
   },
   {
     "company": "Celonis",
-    "title": "Strategic Pricing Graduate Internship (12 months contract)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/strategic-pricing-graduate-internship-12-months-contract",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Senior Software Engineer - Orchestration and Automation",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -225,6 +210,21 @@
     "source": "themuse"
   },
   {
+    "company": "Kyndryl",
+    "title": "Database Administrator",
+    "location": "Madrid, Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/kyndryl/database-administrator-cbf5cb",
+    "source": "themuse"
+  },
+  {
     "company": "Schneider Electric",
     "title": "Global Technical Lead - DataCentres",
     "location": "Madrid, Spain",
@@ -237,6 +237,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/schneiderelectric/global-technical-lead-datacentres",
+    "source": "themuse"
+  },
+  {
+    "company": "Suntory Global Spirits",
+    "title": "Analyst - Demand Planning Data Modeling",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/analyst-demand-planning-data-modeling",
     "source": "themuse"
   },
   {
@@ -342,21 +357,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
-    "source": "themuse"
-  },
-  {
-    "company": "Schneider Electric",
-    "title": "UPS Commissioning Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
     "source": "themuse"
   }
 ]
