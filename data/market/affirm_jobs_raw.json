@@ -16,6 +16,21 @@
   },
   {
     "company": "Affirm",
+    "title": "Senior Software Engineer, Backend (Card)",
+    "location": "Remote Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Senior Software Engineer, Backend (Card Acquisition)",
     "location": "Remote Spain",
     "remote_type": "remote",
@@ -151,6 +166,21 @@
   },
   {
     "company": "Affirm",
+    "title": "Software Engineer I, Fullstack (Servicing International)",
+    "location": "Remote Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Software Engineer II, Backend (Collections)",
     "location": "Remote Spain",
     "remote_type": "remote",
@@ -192,6 +222,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7609694003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer, Backend (Card)",
+    "location": "Remote Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820451003",
     "source": "greenhouse:affirm"
   },
   {

@@ -21,6 +21,29 @@
   },
   {
     "company": "Affirm",
+    "title": "Senior Software Engineer, Backend (Card)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "APIs",
+      "Microservices",
+      "Backend Systems"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820446003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Senior Software Engineer, Backend (Card Acquisition)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -216,6 +239,26 @@
   },
   {
     "company": "Affirm",
+    "title": "Software Engineer I, Fullstack (Servicing International)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 45000,
+    "max_salary_eur": 60000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Software Engineer II, Backend (Collections)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -281,6 +324,29 @@
       "Linux"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7609694003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer, Backend (Card)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 125000,
+    "max_salary_eur": 160000,
+    "hours_risk": "high",
+    "required_years_experience": 7.0,
+    "level": "staff",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "APIs",
+      "Microservices",
+      "Backend Systems"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820451003",
     "source": "greenhouse:affirm"
   },
   {

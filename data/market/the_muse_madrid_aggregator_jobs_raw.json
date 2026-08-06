@@ -76,21 +76,6 @@
   },
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-apac-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -210,21 +195,6 @@
     "source": "themuse"
   },
   {
-    "company": "Kyndryl",
-    "title": "Database Administrator",
-    "location": "Madrid, Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/kyndryl/database-administrator-cbf5cb",
-    "source": "themuse"
-  },
-  {
     "company": "Schneider Electric",
     "title": "Global Technical Lead - DataCentres",
     "location": "Madrid, Spain",
@@ -237,21 +207,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/schneiderelectric/global-technical-lead-datacentres",
-    "source": "themuse"
-  },
-  {
-    "company": "Suntory Global Spirits",
-    "title": "Analyst - Demand Planning Data Modeling",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/analyst-demand-planning-data-modeling",
     "source": "themuse"
   },
   {
@@ -282,6 +237,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/kyndryl/solutions-architect-1cec5c",
+    "source": "themuse"
+  },
+  {
+    "company": "Suntory Global Spirits",
+    "title": "PTP Operations and Payments Analyst",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/ptp-operations-and-payments-analyst",
     "source": "themuse"
   },
   {
