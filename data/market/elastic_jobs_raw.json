@@ -91,6 +91,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Partner Manager - Central Acceleration Team",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8098488&gh_jid=8098488",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -256,6 +271,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Software Engineer - SSC",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8111792&gh_jid=8111792",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Software Engineer - Storage Engine - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -312,21 +342,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=7811850&gh_jid=7811850",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Tax Manager (EMEA & APJ) ",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7991248&gh_jid=7991248",
     "source": "greenhouse:elastic"
   },
   {
