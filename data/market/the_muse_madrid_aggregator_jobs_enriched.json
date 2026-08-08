@@ -121,6 +121,21 @@
   },
   {
     "company": "Celonis",
+    "title": "Training Specialist (Portuguese Speaker)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/training-specialist-portuguese-speaker",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",

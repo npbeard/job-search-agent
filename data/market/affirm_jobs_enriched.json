@@ -21,6 +21,28 @@
   },
   {
     "company": "Affirm",
+    "title": "Senior Site Reliability Engineer  (SRE & Platform Reliability)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux",
+      "Kubernetes",
+      "Reliability",
+      "Incident Response"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822391003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Senior Software Engineer, Backend (Card)",
     "location": "Remote - Spain",
     "remote_type": "remote",
