@@ -76,6 +76,21 @@
   },
   {
     "company": "Typeform",
+    "title": "Senior Product Manager",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 110000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/8121116",
+    "source": "greenhouse:typeform"
+  },
+  {
+    "company": "Typeform",
     "title": "Senior Product Manager - Analytics",
     "location": "Remote - Spain",
     "remote_type": "remote",

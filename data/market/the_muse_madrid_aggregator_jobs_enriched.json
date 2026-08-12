@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-dach-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (DACH)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -325,21 +310,6 @@
     "source": "themuse"
   },
   {
-    "company": "Schneider Electric",
-    "title": "System Integration Application Design Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/system-integration-application-design-engineer-806626",
-    "source": "themuse"
-  },
-  {
     "company": "TikTok",
     "title": "Agency Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
     "location": "Madrid, Spain",
@@ -355,8 +325,8 @@
     "source": "themuse"
   },
   {
-    "company": "Schneider Electric",
-    "title": "UPS Commissioning Engineer",
+    "company": "Mars Incorporated",
+    "title": "Sr. Scrum Master",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -366,7 +336,7 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
+    "url": "https://www.themuse.com/jobs/marsincorporated/sr-scrum-master",
     "source": "themuse"
   }
 ]
