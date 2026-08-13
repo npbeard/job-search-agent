@@ -1,6 +1,21 @@
 [
   {
     "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-dach-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (DACH)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -76,6 +91,26 @@
   },
   {
     "company": "Celonis",
+    "title": "Senior Software Engineer - Orchestration and Automation",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation-2b6802",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Lead Deployment Engineer ",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -117,46 +152,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-benelux-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Senior Software Engineer - Orchestration and Automation",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Senior Software Engineer - Orchestration and Automation",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation-2b6802",
     "source": "themuse"
   },
   {
