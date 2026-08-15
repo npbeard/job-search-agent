@@ -226,7 +226,7 @@
   },
   {
     "company": "Elastic",
-    "title": "Sales Strategy & Operations Specialist",
+    "title": "Sales Strategy & Operations Manager (Individual Contributor)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -282,6 +282,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Integrations 3P - Platform",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8105634&gh_jid=8105634",
     "source": "greenhouse:elastic"
   },
   {
