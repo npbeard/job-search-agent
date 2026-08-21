@@ -1,6 +1,21 @@
 [
   {
     "company": "Affirm",
+    "title": "Analyst II, Full Stack (Revenue Analytics)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7916080003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Manager, Software Engineering, Fullstack (Repayment UX Engineering) ",
     "location": "Remote - Spain",
     "remote_type": "remote",
