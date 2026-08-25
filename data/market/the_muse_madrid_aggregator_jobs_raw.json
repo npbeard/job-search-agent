@@ -1,7 +1,7 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (DACH)",
+    "title": "Global Content Graduated Internship (12 months)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -11,22 +11,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-dach",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-orbit-program-madridbased",
+    "url": "https://www.themuse.com/jobs/celonis/global-content-graduated-internship-12-months",
     "source": "themuse"
   },
   {
@@ -41,12 +26,12 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations",
+    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations-edb641",
     "source": "themuse"
   },
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (Scale EMEA/German-Speaking) - Orbit Program",
+    "title": "Senior Finance Systems Engineer (Workday Financials)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -56,12 +41,12 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-scale-emeagermanspeaking-orbit-program",
+    "url": "https://www.themuse.com/jobs/celonis/senior-finance-systems-engineer-workday-financials",
     "source": "themuse"
   },
   {
     "company": "Celonis",
-    "title": "Lead AI Deployment Architect",
+    "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -71,12 +56,12 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/lead-ai-deployment-architect-3b996b",
+    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-benelux-orbit-program-00d752",
     "source": "themuse"
   },
   {
     "company": "Celonis",
-    "title": "Senior Software Engineer - Orchestration and Automation",
+    "title": "Associate Applied (AI) Value Engineer (DACH) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -86,12 +71,12 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation-2b6802",
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-dach-orbit-program",
     "source": "themuse"
   },
   {
     "company": "Celonis",
-    "title": "Lead Deployment Engineer ",
+    "title": "Accounts Receivable Specialist (German-Speaking)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -101,22 +86,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Training Specialist (Portuguese Speaker)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/training-specialist-portuguese-speaker",
+    "url": "https://www.themuse.com/jobs/celonis/accounts-receivable-specialist-germanspeaking",
     "source": "themuse"
   },
   {
@@ -136,7 +106,7 @@
   },
   {
     "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
+    "title": "Application Product Manager - AI System Transformations",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -146,7 +116,37 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-benelux-orbit-program",
+    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations-a49ebd",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate (AI) Solution Consultant - Orbit Program (Madrid-based)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-orbit-program-madridbased",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate (AI) Solution Consultant (DACH) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-dach-orbit-program",
     "source": "themuse"
   },
   {

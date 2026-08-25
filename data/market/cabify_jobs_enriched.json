@@ -293,6 +293,21 @@
   },
   {
     "company": "Cabify",
+    "title": "Revenue Operations & Commercial Scalability Sr Manager",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 75000,
+    "max_salary_eur": 100000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8742559002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Senior Data Scientist",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
