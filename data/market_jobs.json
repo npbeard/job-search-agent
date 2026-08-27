@@ -108,6 +108,21 @@
     "source": "remotive"
   },
   {
+    "company": "Celonis",
+    "title": "Analytics Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/analytics-engineer",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Senior Data Engineer (Palantir)",
     "location": "Madrid, Spain",

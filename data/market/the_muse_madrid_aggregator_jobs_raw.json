@@ -1,6 +1,21 @@
 [
   {
     "company": "Celonis",
+    "title": "Lead Deployment Engineer ",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Global Content Graduated Internship (12 months)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -27,6 +42,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations-edb641",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Analytics Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/analytics-engineer",
     "source": "themuse"
   },
   {

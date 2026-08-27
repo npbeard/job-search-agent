@@ -1,21 +1,6 @@
 [
   {
     "company": "Elastic",
-    "title": "Customer Architect",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8059843&gh_jid=8059843",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Deal Desk Analyst (EMEA)",
     "location": "Spain",
     "remote_type": "onsite",
@@ -27,21 +12,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8037181&gh_jid=8037181",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Inside Account Executive (Arabic & French speaking)",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8067205&gh_jid=8067205",
     "source": "greenhouse:elastic"
   },
   {
@@ -61,6 +31,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Inside Account Executive MENA - Arabic and French speaker",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8067205&gh_jid=8067205",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Inside Account Executive - Norwegian speaker",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -76,7 +61,7 @@
   },
   {
     "company": "Elastic",
-    "title": "Inside Account Executive - UKI (English speaking)",
+    "title": "Inside Account Executive UKI - English speaker",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -256,6 +241,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Manager, Endpoint Protections",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161821&gh_jid=8161821",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Product Manager, Logs - Observability",
     "location": "Spain",
     "remote_type": "onsite",
@@ -282,6 +282,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8028261&gh_jid=8028261",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Security Research Engineer",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837",
     "source": "greenhouse:elastic"
   },
   {
@@ -316,6 +331,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Software Engineer - Search Algorithms - Elasticsearch",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161419&gh_jid=8161419",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Software Engineer - SSC",
     "location": "Spain",
     "remote_type": "onsite",
@@ -342,6 +372,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8074855&gh_jid=8074855",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Vector Search - Elasticsearch",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161519&gh_jid=8161519",
     "source": "greenhouse:elastic"
   },
   {
