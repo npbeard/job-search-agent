@@ -411,5 +411,28 @@
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7637825003",
     "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer, Backend (Identity International)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 125000,
+    "max_salary_eur": 160000,
+    "hours_risk": "high",
+    "required_years_experience": 7.0,
+    "level": "staff",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "APIs",
+      "Microservices",
+      "Backend Systems"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
+    "source": "greenhouse:affirm"
   }
 ]

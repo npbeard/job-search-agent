@@ -186,6 +186,46 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Software Engineer - Search Algorithms - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8162474&gh_jid=8162474",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Principal Software Engineer - Vector Search - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8162407&gh_jid=8162407",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Sales Development Representative - Barcelona (Hybrid)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
