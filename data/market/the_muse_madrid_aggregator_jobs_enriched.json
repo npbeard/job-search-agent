@@ -1,6 +1,21 @@
 [
   {
     "company": "Celonis",
+    "title": "Associate (AI) Solution Consultant (France) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "high",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-france-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -27,6 +42,21 @@
     "level": "senior",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Intern Global Customer Advocacy",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 45000,
+    "max_salary_eur": 60000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/intern-global-customer-advocacy",
     "source": "themuse"
   },
   {
@@ -335,6 +365,28 @@
     "source": "themuse"
   },
   {
+    "company": "Suntory Global Spirits",
+    "title": "Analyst - Demand Planning Data Modeling",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
+      "dbt",
+      "Warehouse"
+    ],
+    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/analyst-demand-planning-data-modeling",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Senior Java Developer (German-speaking)",
     "location": "Madrid, Spain",
@@ -362,6 +414,21 @@
     "level": "entry",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/strategy-analyst-project-intern-chinese-speaker-tiktok-shop-spain-2026-start",
+    "source": "themuse"
+  },
+  {
+    "company": "Hitachi Energy",
+    "title": "Installed Base Manager GPG Service (f/m/d)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/hitachienergy/installed-base-manager-gpg-service-fmd",
     "source": "themuse"
   },
   {
@@ -422,21 +489,6 @@
     "level": "senior",
     "skills": [],
     "url": "https://www.themuse.com/jobs/kyndryl/senior-sap-technical-consultant",
-    "source": "themuse"
-  },
-  {
-    "company": "TikTok",
-    "title": "Agency Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 45000,
-    "max_salary_eur": 60000,
-    "hours_risk": "medium",
-    "required_years_experience": 0.0,
-    "level": "entry",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
     "source": "themuse"
   }
 ]

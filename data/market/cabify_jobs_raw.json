@@ -91,7 +91,7 @@
   },
   {
     "company": "Cabify",
-    "title": "Fleet Development Success Analyst",
+    "title": "Fleet Development Analyst",
     "location": "Madrid",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -101,7 +101,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8658273002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8768892002",
     "source": "greenhouse:cabify"
   },
   {
@@ -181,21 +181,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Marketing Internship - Global Content",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8627746002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Market Insights Senior Manager",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -241,21 +226,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Paid Media Trainee",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8557792002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "People Business Partner",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -297,6 +267,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8742559002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "Salesforce Senior Technical Architect",
+    "location": "Madrid",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8769673002",
     "source": "greenhouse:cabify"
   },
   {
