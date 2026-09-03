@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant (France) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-france-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -87,21 +72,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-uk-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Application Product Manager - AI System Transformations",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations-edb641",
     "source": "themuse"
   },
   {
@@ -211,6 +181,21 @@
   },
   {
     "company": "Celonis",
+    "title": "Associate (AI) Solution Consultant - Orbit Program ",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Sr. Full Stack Software Engineer - Orchestration and Automation",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -226,21 +211,6 @@
   },
   {
     "company": "Celonis",
-    "title": "Application Product Manager - AI System Transformations",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/application-product-manager-ai-system-transformations-a49ebd",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Senior Application Product Manager - Oracle & AI",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -252,21 +222,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/senior-application-product-manager-oracle-ai",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant - Orbit Program (Madrid-based)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-orbit-program-madridbased",
     "source": "themuse"
   },
   {
@@ -462,6 +417,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/kyndryl/senior-sap-technical-consultant",
+    "source": "themuse"
+  },
+  {
+    "company": "TikTok",
+    "title": "Agency Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
     "source": "themuse"
   }
 ]

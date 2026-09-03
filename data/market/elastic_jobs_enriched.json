@@ -485,6 +485,26 @@
   },
   {
     "company": "Elastic",
+    "title": "Software Engineer II - EDR Workflows - Security",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8119456&gh_jid=8119456",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Software Engineer II - Full Stack - Web Engineering",
     "location": "Remote - Spain",
     "remote_type": "onsite",
