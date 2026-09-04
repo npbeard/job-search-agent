@@ -166,6 +166,29 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Software Engineer (Application Networking) - Platform Infrastructure",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "Terraform",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8096579&gh_jid=8096579",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Software Engineer - Performance Tuning - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
