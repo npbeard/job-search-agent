@@ -1,6 +1,36 @@
 [
   {
     "company": "Celonis",
+    "title": "Senior Software Engineer - Orchestration and Automation",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation-2b6802",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-orbit-program-madridbased",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -72,6 +102,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/global-content-graduated-internship-12-months",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-apac-orbit-program",
     "source": "themuse"
   },
   {
@@ -300,6 +345,21 @@
     "source": "themuse"
   },
   {
+    "company": "Palo Alto Networks",
+    "title": "Domain Consultant SecOps Transformation",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/paloaltonetworks/domain-consultant-secops-transformation",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Senior Java Developer (German-speaking)",
     "location": "Madrid, Spain",
@@ -327,21 +387,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/strategy-analyst-project-intern-chinese-speaker-tiktok-shop-spain-2026-start",
-    "source": "themuse"
-  },
-  {
-    "company": "Hitachi Energy",
-    "title": "Installed Base Manager GPG Service (f/m/d)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/hitachienergy/installed-base-manager-gpg-service-fmd",
     "source": "themuse"
   },
   {
@@ -402,21 +447,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/kyndryl/senior-sap-technical-consultant",
-    "source": "themuse"
-  },
-  {
-    "company": "TikTok",
-    "title": "Agency Operations Project Intern (TikTok LIVE) - 2026 Start (BS/MS)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/tiktok/agency-operations-project-intern-tiktok-live-2026-start-bsms-e44cc8",
     "source": "themuse"
   }
 ]
