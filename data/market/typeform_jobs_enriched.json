@@ -61,6 +61,21 @@
   },
   {
     "company": "Typeform",
+    "title": "Freelance Principal Recruiter",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 125000,
+    "max_salary_eur": 170000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/typeform/jobs/8188745",
+    "source": "greenhouse:typeform"
+  },
+  {
+    "company": "Typeform",
     "title": "Full Stack Developer ",
     "location": "Remote - Spain",
     "remote_type": "remote",

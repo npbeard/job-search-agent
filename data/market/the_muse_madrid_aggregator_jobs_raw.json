@@ -1,36 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Senior Software Engineer - Orchestration and Automation",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/senior-software-engineer-orchestration-and-automation-2b6802",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer  - Orbit Program (Madrid-based)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-orbit-program-madridbased",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -106,21 +76,6 @@
   },
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-apac-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Analytics Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -147,6 +102,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/graduated-intern-academy-operations-technology",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-apac-orbit-program",
     "source": "themuse"
   },
   {
@@ -181,21 +151,6 @@
   },
   {
     "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-benelux-orbit-program-00d752",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate (AI) Solution Consultant (France) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -207,6 +162,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-france-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (Japan) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-japan-orbit-program",
     "source": "themuse"
   },
   {
@@ -282,6 +252,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/sr-full-stack-software-engineer-orchestration-and-automation",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
+    "title": "Associate Applied (AI) Value Engineer (Benelux) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-benelux-orbit-program-132e68",
     "source": "themuse"
   },
   {
