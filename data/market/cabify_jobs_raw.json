@@ -16,21 +16,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Collections Global Manager",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8625880002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Customer Experience Excellence Specialist",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -146,7 +131,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8704942002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8785634002",
     "source": "greenhouse:cabify"
   },
   {
@@ -161,7 +146,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8785634002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8704942002",
     "source": "greenhouse:cabify"
   },
   {
@@ -271,6 +256,21 @@
   },
   {
     "company": "Cabify",
+    "title": "Sales Executive ",
+    "location": "Madrid",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8795509002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Salesforce Consultant",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -312,6 +312,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8729465002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "SDR Lead",
+    "location": "Madrid",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8795592002",
     "source": "greenhouse:cabify"
   },
   {

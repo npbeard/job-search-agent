@@ -346,6 +346,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Product Manager (XDR) - Security Solutions",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8194061&gh_jid=8194061",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Security Research Engineer",
     "location": "Spain",
     "remote_type": "onsite",
@@ -357,6 +372,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Security Research Engineer, SONAR (Security Operations and Novel Adversary Research)",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161936&gh_jid=8161936",
     "source": "greenhouse:elastic"
   },
   {
