@@ -136,21 +136,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Principal Product Manager, Telemetry Collection - Observability ",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 145000,
-    "max_salary_eur": 190000,
-    "hours_risk": "high",
-    "required_years_experience": 9.0,
-    "level": "principal",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8081011&gh_jid=8081011",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Principal Product Manager (XDR & Exposure Management) - Security Solutions",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -185,6 +170,29 @@
       "Reliability"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8096579&gh_jid=8096579",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 145000,
+    "max_salary_eur": 190000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "Terraform",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8198517&gh_jid=8198517",
     "source": "greenhouse:elastic"
   },
   {
@@ -305,6 +313,25 @@
     "level": "mid",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8067017&gh_jid=8067017",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "high",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8088013&gh_jid=8088013",
     "source": "greenhouse:elastic"
   },
   {
