@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-nordics-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate (AI) Solution Consultant (Nordics) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -305,6 +290,21 @@
     "source": "themuse"
   },
   {
+    "company": "Schneider Electric",
+    "title": "Prosumer Channel Business Developer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/schneiderelectric/prosumer-channel-business-developer",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Senior Data Engineer (Palantir)",
     "location": "Madrid, Spain",
@@ -325,6 +325,21 @@
       "Warehouse"
     ],
     "url": "https://www.themuse.com/jobs/epamsystems/senior-data-engineer-palantir-830e26",
+    "source": "themuse"
+  },
+  {
+    "company": "Infosys",
+    "title": "SAP EWM, MFS S/4HANA Functional consultant - Spain",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "high",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/infosys/sap-ewm-mfs-s4hana-functional-consultant-spain",
     "source": "themuse"
   },
   {
@@ -425,18 +440,18 @@
     "source": "themuse"
   },
   {
-    "company": "Infosys",
-    "title": "SAP SD, Intercompany S/4 Hana - Spain",
+    "company": "Schneider Electric",
+    "title": "End-to-End Process & Tools Deployment Lead",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
     "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
+    "required_years_experience": 5.0,
+    "level": "senior",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/infosys/sap-sd-intercompany-s4-hana-spain",
+    "url": "https://www.themuse.com/jobs/schneiderelectric/endtoend-process-tools-deployment-lead-af44d8",
     "source": "themuse"
   },
   {
