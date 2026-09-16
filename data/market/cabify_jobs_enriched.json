@@ -1,7 +1,7 @@
 [
   {
     "company": "Cabify",
-    "title": "Accounting Analyst",
+    "title": "Business Unit Director - Strategic Fleets",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -11,7 +11,7 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8642423002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8651149002",
     "source": "greenhouse:cabify"
   },
   {
@@ -109,21 +109,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8617825002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Fleet partnerships - Business Unit Director ",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8651149002",
     "source": "greenhouse:cabify"
   },
   {
