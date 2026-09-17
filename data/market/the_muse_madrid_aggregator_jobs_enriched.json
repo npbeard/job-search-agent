@@ -61,6 +61,21 @@
   },
   {
     "company": "Celonis",
+    "title": "Senior Director, Celonis Services EMEA Center of Excellence",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/senior-director-celonis-services-emea-center-of-excellence",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Analytics Engineer",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -246,6 +261,21 @@
   },
   {
     "company": "Celonis",
+    "title": "Training Specialist (Portuguese Speaker)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/training-specialist-portuguese-speaker",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate (AI) Solution Consultant (DACH) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -310,21 +340,6 @@
       "Warehouse"
     ],
     "url": "https://www.themuse.com/jobs/epamsystems/senior-data-engineer-palantir-830e26",
-    "source": "themuse"
-  },
-  {
-    "company": "Infosys",
-    "title": "SAP EWM, MFS S/4HANA Functional consultant - Spain",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "high",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/infosys/sap-ewm-mfs-s4hana-functional-consultant-spain",
     "source": "themuse"
   },
   {
@@ -452,6 +467,21 @@
     "level": "senior",
     "skills": [],
     "url": "https://www.themuse.com/jobs/kyndryl/senior-sap-technical-consultant",
+    "source": "themuse"
+  },
+  {
+    "company": "Mars Incorporated",
+    "title": "Sr. Scrum Master",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/marsincorporated/sr-scrum-master",
     "source": "themuse"
   }
 ]
