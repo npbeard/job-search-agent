@@ -361,6 +361,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior SDR Enablement Specialist ",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8187443&gh_jid=8187443",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Security Research Engineer",
     "location": "Spain",
     "remote_type": "onsite",
@@ -522,21 +537,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8119456&gh_jid=8119456",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Software Engineer II - Platform Infrastructure (Orchestration)",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7976542&gh_jid=7976542",
     "source": "greenhouse:elastic"
   },
   {
