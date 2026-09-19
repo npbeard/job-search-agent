@@ -1,5 +1,27 @@
 [
   {
+    "company": "Lemon.io",
+    "title": "Senior Data Scientist",
+    "location": "Remote - Northern America, LATAM, Europe, APAC",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
+      "dbt",
+      "Warehouse"
+    ],
+    "url": "https://remotive.com/remote-jobs/data/senior-data-scientist-2091129",
+    "source": "remotive"
+  },
+  {
     "company": "A.Team",
     "title": "Senior Independent Software Developer",
     "location": "Remote - Americas, Europe, Israel",
