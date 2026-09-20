@@ -1,6 +1,21 @@
 [
   {
     "company": "Lemon.io",
+    "title": "Senior .NET Full-stack Developer",
+    "location": "Remote - Northern America, LATAM, Europe, APAC",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
+    "source": "remotive"
+  },
+  {
+    "company": "Lemon.io",
     "title": "Senior Data Scientist",
     "location": "Remote - Northern America, LATAM, Europe, APAC",
     "remote_type": "remote",
