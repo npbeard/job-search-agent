@@ -196,6 +196,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Software Engineer - Search Infra - Elasticsearch",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8220111&gh_jid=8220111",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Software Engineer - Vector Search - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -207,21 +222,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8162407&gh_jid=8162407",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Sales Development Representative (Arabic speaker)",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8129741&gh_jid=8129741",
     "source": "greenhouse:elastic"
   },
   {

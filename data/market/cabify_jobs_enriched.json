@@ -1,6 +1,21 @@
 [
   {
     "company": "Cabify",
+    "title": "B2B Growth and Sales Ops Intern",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 45000,
+    "max_salary_eur": 60000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8826825002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Business Unit Director - Strategic Fleets",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -143,6 +158,21 @@
   },
   {
     "company": "Cabify",
+    "title": "Growth Analyst",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8826883002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Growth B2B Internship",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -198,7 +228,7 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8785165002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8826811002",
     "source": "greenhouse:cabify"
   },
   {
