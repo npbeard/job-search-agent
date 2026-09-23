@@ -61,6 +61,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal AI Engineer - Context - Agents and Context",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8224018&gh_jid=8224018",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Java Engineer - Distributed Systems, Serverless - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -507,6 +522,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8119456&gh_jid=8119456",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Software Engineer II - Full Stack - Web Engineering",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8080263&gh_jid=8080263",
     "source": "greenhouse:elastic"
   },
   {

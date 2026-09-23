@@ -138,7 +138,7 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8785634002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8704942002",
     "source": "greenhouse:cabify"
   },
   {
@@ -153,7 +153,7 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8704942002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8785634002",
     "source": "greenhouse:cabify"
   },
   {
@@ -386,21 +386,6 @@
     "level": "senior",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8817887002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Senior Sales Executive  ",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8647063002",
     "source": "greenhouse:cabify"
   },
   {

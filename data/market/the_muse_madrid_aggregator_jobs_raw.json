@@ -1,6 +1,21 @@
 [
   {
     "company": "Celonis",
+    "title": "IT Service Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/it-service-engineer-3dd07f",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -102,21 +117,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/analytics-engineer",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Associate Applied (AI) Value Engineer (APAC) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-applied-ai-value-engineer-apac-orbit-program",
     "source": "themuse"
   },
   {
@@ -282,21 +282,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-dach-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "IT Service Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/it-service-engineer-3dd07f",
     "source": "themuse"
   },
   {
