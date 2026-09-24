@@ -1,6 +1,21 @@
 [
   {
     "company": "Elastic",
+    "title": "Core/ Infra - Senior Java Engineer - Elasticsearch",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8225984&gh_jid=8225984",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Deal Desk Analyst (EMEA)",
     "location": "Spain",
     "remote_type": "onsite",

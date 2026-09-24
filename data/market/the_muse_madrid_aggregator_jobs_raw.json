@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "IT Service Engineer",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/it-service-engineer-3dd07f",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate Applied (AI) Value Engineer (Nordics) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -57,21 +42,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/celonis/lead-deployment-engineer",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
-    "title": "Senior / Principal Talent Acquisition Partner ",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/senior-principal-talent-acquisition-partner",
     "source": "themuse"
   },
   {
@@ -330,6 +300,21 @@
     "source": "themuse"
   },
   {
+    "company": "Infosys",
+    "title": "Principal Consultant - SAP EWM, MFS S/4HANA - Spain",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/infosys/principal-consultant-sap-ewm-mfs-s4hana-spain",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Senior Java Developer (German-speaking)",
     "location": "Madrid, Spain",
@@ -447,6 +432,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/tiktok/strategy-and-operations-project-intern-mandarin-speaking-tiktok-live2026-start-bsms",
+    "source": "themuse"
+  },
+  {
+    "company": "Mars Incorporated",
+    "title": "Sr. Scrum Master",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/marsincorporated/sr-scrum-master",
     "source": "themuse"
   }
 ]
