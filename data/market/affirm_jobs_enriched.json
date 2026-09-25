@@ -31,28 +31,6 @@
   },
   {
     "company": "Affirm",
-    "title": "Senior Site Reliability Engineer  (SRE & Platform Reliability)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 130000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "AWS",
-      "Terraform",
-      "Linux",
-      "Kubernetes",
-      "Reliability",
-      "Incident Response"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7822391003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
     "title": "Senior Software Engineer, Backend (Card)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -244,29 +222,6 @@
       "Linux"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7809763003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineer II, Backend (Collections)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "APIs",
-      "Microservices",
-      "Backend Systems"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7813157003",
     "source": "greenhouse:affirm"
   },
   {
