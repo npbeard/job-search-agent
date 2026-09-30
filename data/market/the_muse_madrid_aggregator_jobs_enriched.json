@@ -335,6 +335,21 @@
     "source": "themuse"
   },
   {
+    "company": "JPMorgan Chase",
+    "title": "International Private Bank, Executive Director, Banker, Spain",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 45000,
+    "max_salary_eur": 60000,
+    "hours_risk": "medium",
+    "required_years_experience": 0.0,
+    "level": "entry",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/jpmorganchase/international-private-bank-executive-director-banker-spain",
+    "source": "themuse"
+  },
+  {
     "company": "UKG",
     "title": "Integration Consultant",
     "location": "Madrid, Spain",
@@ -422,6 +437,32 @@
     "level": "mid",
     "skills": [],
     "url": "https://www.themuse.com/jobs/marsincorporated/sr-scrum-master",
+    "source": "themuse"
+  },
+  {
+    "company": "EPAM Systems",
+    "title": "Principal Data Software Engineer (Databricks)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 125000,
+    "max_salary_eur": 170000,
+    "hours_risk": "high",
+    "required_years_experience": 9.0,
+    "level": "principal",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
+      "dbt",
+      "Warehouse"
+    ],
+    "url": "https://www.themuse.com/jobs/epamsystems/principal-data-software-engineer-databricks",
     "source": "themuse"
   }
 ]

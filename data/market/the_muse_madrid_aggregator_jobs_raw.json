@@ -315,6 +315,21 @@
     "source": "themuse"
   },
   {
+    "company": "JPMorgan Chase",
+    "title": "International Private Bank, Executive Director, Banker, Spain",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/jpmorganchase/international-private-bank-executive-director-banker-spain",
+    "source": "themuse"
+  },
+  {
     "company": "UKG",
     "title": "Integration Consultant",
     "location": "Madrid, Spain",
@@ -402,6 +417,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/marsincorporated/sr-scrum-master",
+    "source": "themuse"
+  },
+  {
+    "company": "EPAM Systems",
+    "title": "Principal Data Software Engineer (Databricks)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/epamsystems/principal-data-software-engineer-databricks",
     "source": "themuse"
   }
 ]
