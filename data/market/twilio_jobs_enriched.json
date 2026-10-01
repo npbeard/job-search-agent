@@ -16,21 +16,6 @@
   },
   {
     "company": "Twilio",
-    "title": "Presales Engineer  (German speaker)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 70000,
-    "max_salary_eur": 95000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8157509",
-    "source": "greenhouse:twilio"
-  },
-  {
-    "company": "Twilio",
     "title": "Staff, Escalations Manager",
     "location": "Remote - Spain",
     "remote_type": "remote",
