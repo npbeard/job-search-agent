@@ -16,21 +16,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Inside Account Executive (French speaking)",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8067200&gh_jid=8067200",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Inside Account Executive - Norwegian speaker",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -265,21 +250,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8055111&gh_jid=8055111",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Sales Development Representative (French speaking) ",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8067052&gh_jid=8067052",
     "source": "greenhouse:elastic"
   },
   {
