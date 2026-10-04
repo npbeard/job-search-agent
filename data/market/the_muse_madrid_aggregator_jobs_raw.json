@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant (Nordics) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-nordics-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Lead Deployment Engineer ",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -270,21 +255,6 @@
     "source": "themuse"
   },
   {
-    "company": "Suntory Global Spirits",
-    "title": "Local Financial Controller Associate - Maternity Cover - Based in Madrid",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/local-financial-controller-associate-maternity-cover-based-in-madrid",
-    "source": "themuse"
-  },
-  {
     "company": "Kyndryl",
     "title": "Solutions Architect",
     "location": "Madrid, Spain",
@@ -417,6 +387,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/epamsystems/principal-data-software-engineer-databricks",
+    "source": "themuse"
+  },
+  {
+    "company": "Hitachi Energy",
+    "title": "Control Application Engineer - Power Converters",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/hitachienergy/control-application-engineer-power-converters-7cd09a",
     "source": "themuse"
   }
 ]
