@@ -348,21 +348,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Product Manager, Logs - Observability",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8066508&gh_jid=8066508",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Product Manager - Self service cloud",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -638,21 +623,6 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8119456&gh_jid=8119456",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Tech Lead, Agent Framework - Observability",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8059920&gh_jid=8059920",
     "source": "greenhouse:elastic"
   }
 ]
