@@ -16,21 +16,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Inside Account Executive (Norwegian speaking)",
-    "location": "Barcelona, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8138586&gh_jid=8138586",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Inside Account Executive UKI - English speaker",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -492,6 +477,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8161419&gh_jid=8161419",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Security Integrations - Prompt Engineering",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8261532&gh_jid=8261532",
     "source": "greenhouse:elastic"
   },
   {
