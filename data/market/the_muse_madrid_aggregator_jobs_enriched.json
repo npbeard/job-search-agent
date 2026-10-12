@@ -300,21 +300,6 @@
     "source": "themuse"
   },
   {
-    "company": "Mars Incorporated",
-    "title": "Sr. Scrum Master",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/marsincorporated/sr-scrum-master",
-    "source": "themuse"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Principal Data Software Engineer (Databricks)",
     "location": "Madrid, Spain",
