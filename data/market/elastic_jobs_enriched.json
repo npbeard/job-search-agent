@@ -1,21 +1,6 @@
 [
   {
     "company": "Elastic",
-    "title": "Deal Desk Analyst (EMEA)",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8037181&gh_jid=8037181",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Principal AI Engineer - Context - Agents and Context",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -232,6 +217,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Developer Advocate",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8283666&gh_jid=8283666",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Full Stack Software Developer - Observability",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -292,6 +292,21 @@
     "level": "senior",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8001192&gh_jid=8001192",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Java Engineer - Security - Elasticsearch",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8281637&gh_jid=8281637",
     "source": "greenhouse:elastic"
   },
   {
