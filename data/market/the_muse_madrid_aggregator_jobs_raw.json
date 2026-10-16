@@ -105,21 +105,6 @@
     "source": "themuse"
   },
   {
-    "company": "Schneider Electric",
-    "title": "Global Technical Lead - DataCentres",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/global-technical-lead-datacentres",
-    "source": "themuse"
-  },
-  {
     "company": "Palo Alto Networks",
     "title": "Domain Consultant SecOps Transformation",
     "location": "Madrid, Spain",
@@ -180,21 +165,6 @@
     "source": "themuse"
   },
   {
-    "company": "JPMorgan Chase",
-    "title": "International Private Bank, Executive Director, Banker, Spain",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/jpmorganchase/international-private-bank-executive-director-banker-spain",
-    "source": "themuse"
-  },
-  {
     "company": "UKG",
     "title": "Integration Consultant",
     "location": "Madrid, Spain",
@@ -207,21 +177,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/ukg/integration-consultant-c1cacb",
-    "source": "themuse"
-  },
-  {
-    "company": "Schneider Electric",
-    "title": "End-to-End Process & Tools Deployment Lead",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/endtoend-process-tools-deployment-lead-af44d8",
     "source": "themuse"
   },
   {
@@ -255,21 +210,6 @@
     "source": "themuse"
   },
   {
-    "company": "Schneider Electric",
-    "title": "Commissioning Engineer for PreFab (Prefabricated Data Center Modules)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/schneiderelectric/commissioning-engineer-for-prefab-prefabricated-data-center-modules",
-    "source": "themuse"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Principal Data Software Engineer (Databricks)",
     "location": "Madrid, Spain",
@@ -282,6 +222,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/epamsystems/principal-data-software-engineer-databricks",
+    "source": "themuse"
+  },
+  {
+    "company": "Schneider Electric",
+    "title": "EHS Excellence, Standardization & Sustainability Specialist - Modular Data Centers and Cooling Supply Chain",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/schneiderelectric/ehs-excellence-standardization-sustainability-specialist-modular-data-centers-and-cooling-supply-chain",
     "source": "themuse"
   },
   {
@@ -315,8 +270,8 @@
     "source": "themuse"
   },
   {
-    "company": "Salesforce",
-    "title": "AI Builder, Emerging Talent - Spanish Market",
+    "company": "GE Vernova",
+    "title": "Senior Project Engineering Manager",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -326,7 +281,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/salesforce/ai-builder-emerging-talent-spanish-market-2985ad",
+    "url": "https://www.themuse.com/jobs/gevernova/senior-project-engineering-manager-5f2e54",
     "source": "themuse"
   }
 ]
