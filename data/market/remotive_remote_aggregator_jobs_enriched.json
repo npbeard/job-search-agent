@@ -1,5 +1,25 @@
 [
   {
+    "company": "Askable",
+    "title": "Software Engineer, AI Coding Tasks",
+    "location": "Remote - Worldwide",
+    "remote_type": "remote",
+    "employment_type": "contract",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://remotive.com/remote-jobs/software-development/software-engineer-ai-coding-tasks-2091158",
+    "source": "remotive"
+  },
+  {
     "company": "Lemon.io",
     "title": "Senior React Full-stack Developer",
     "location": "Remote - Europe, USA, Canada, APAC",
@@ -57,21 +77,6 @@
     "level": "senior",
     "skills": [],
     "url": "https://remotive.com/remote-jobs/artificial-intelligence/senior-ai-engineer-2091131",
-    "source": "remotive"
-  },
-  {
-    "company": "Lemon.io",
-    "title": "Senior .NET Full-stack Developer",
-    "location": "Remote - Northern America, LATAM, Europe, APAC",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 85000,
-    "max_salary_eur": 120000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://remotive.com/remote-jobs/software-development/senior-net-full-stack-developer-2091130",
     "source": "remotive"
   }
 ]
