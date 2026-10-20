@@ -46,21 +46,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Customer Support Analyst (Temporal +1 a\u00f1o)",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8881034002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Customer Support Associate ",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -146,7 +131,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8617825002",
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8901899002",
     "source": "greenhouse:cabify"
   },
   {
@@ -282,36 +267,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8795509002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Salesforce Consultant",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8783655002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Salesforce Senior Technical Architect",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8769673002",
     "source": "greenhouse:cabify"
   },
   {
