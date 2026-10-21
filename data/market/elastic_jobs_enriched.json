@@ -402,26 +402,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Software Engineer -Observability, Managed Inputs ",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8167769&gh_jid=8167769",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Software Engineer - Performance Tuning - Elasticsearch",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -558,26 +538,6 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8161519&gh_jid=8161519",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Software Engineer I - AI Observability",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8245844&gh_jid=8245844",
     "source": "greenhouse:elastic"
   },
   {

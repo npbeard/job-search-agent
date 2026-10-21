@@ -21,5 +21,26 @@
     ],
     "url": "https://www.themuse.com/jobs/epamsystems/senior-data-engineer-palantir-830e26",
     "source": "themuse"
+  },
+  {
+    "company": "Kyndryl",
+    "title": "Senior Platform Engineer - Conatainers",
+    "location": "Madrid, Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://www.themuse.com/jobs/kyndryl/senior-platform-engineer-conatainers",
+    "source": "themuse"
   }
 ]
