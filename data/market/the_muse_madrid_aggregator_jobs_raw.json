@@ -150,6 +150,21 @@
     "source": "themuse"
   },
   {
+    "company": "Salesforce",
+    "title": "AI Builder, Emerging Talent - English Speaking Market",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/salesforce/ai-builder-emerging-talent-english-speaking-market",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Lead Automation QA Engineer  (relocation to Cyprus)",
     "location": "Madrid, Spain",
@@ -285,6 +300,21 @@
     "source": "themuse"
   },
   {
+    "company": "Salesforce",
+    "title": "AI Builder, Emerging Talent - Hebrew Market",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/salesforce/ai-builder-emerging-talent-hebrew-market-62da67",
+    "source": "themuse"
+  },
+  {
     "company": "Kyndryl",
     "title": "Senior Platform Engineer - Conatainers",
     "location": "Madrid, Spain",
@@ -312,6 +342,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/epamsystems/lead-java-engineer-algorithms-experience-relocation-to-belfast-a476b0",
+    "source": "themuse"
+  },
+  {
+    "company": "EPAM Systems",
+    "title": "Senior SAP Functional Consultant (Archiving experience)",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/epamsystems/senior-sap-functional-consultant-archiving-experience",
     "source": "themuse"
   }
 ]
