@@ -390,5 +390,27 @@
     "skills": [],
     "url": "https://www.themuse.com/jobs/epamsystems/senior-sap-functional-consultant-archiving-experience",
     "source": "themuse"
+  },
+  {
+    "company": "EPAM Systems",
+    "title": "Senior Business Data Analyst",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "SQL",
+      "ETL",
+      "ELT",
+      "Spark",
+      "dbt",
+      "Warehouse"
+    ],
+    "url": "https://www.themuse.com/jobs/epamsystems/senior-business-data-analyst-54cb75",
+    "source": "themuse"
   }
 ]

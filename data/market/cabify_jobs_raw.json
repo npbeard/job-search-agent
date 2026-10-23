@@ -196,21 +196,6 @@
   },
   {
     "company": "Cabify",
-    "title": "People Service Analyst",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8902414002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Procurement Analyst Trainee",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -331,21 +316,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Senior Product Manager",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8817887002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Senior Site Reliability Engineer",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -372,6 +342,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8844081002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "T\u00e9cnico/a de N\u00f3minas y Administraci\u00f3n de Personal",
+    "location": "Madrid",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8910973002",
     "source": "greenhouse:cabify"
   },
   {
