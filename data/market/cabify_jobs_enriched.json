@@ -143,21 +143,6 @@
   },
   {
     "company": "Cabify",
-    "title": "Growth Analyst",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8826883002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
     "title": "Iniciativa de Diversidad e Inclusi\u00f3n \u2013 Certificado de discapacidad de 33%",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -199,21 +184,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8589282002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Procurement Analyst Trainee",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8863024002",
     "source": "greenhouse:cabify"
   },
   {
@@ -383,21 +353,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8910973002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Treasury Analyst",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8454680002",
     "source": "greenhouse:cabify"
   }
 ]

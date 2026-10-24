@@ -76,6 +76,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Principal Software Engineer - Global UX - Application - Platform",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8075239&gh_jid=8075239",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Principal Software Engineer I - CI/CD - Platform Engineering Productivity",
     "location": "Spain",
     "remote_type": "onsite",
@@ -492,6 +507,21 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8119456&gh_jid=8119456",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Software Engineering Manager - Global UX - Applications - Platform",
+    "location": "Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8301334&gh_jid=8301334",
     "source": "greenhouse:elastic"
   },
   {
