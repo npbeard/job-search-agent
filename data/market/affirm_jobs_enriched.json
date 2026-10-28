@@ -16,6 +16,41 @@
   },
   {
     "company": "Affirm",
+    "title": "Manager, Machine Learning Engineering, Checkout",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8041432003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Manager, Software Engineering (Card)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8043027003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Senior Manager, Technical Recruiting",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -31,7 +66,7 @@
   },
   {
     "company": "Affirm",
-    "title": "Senior Software Engineer, Backend (Card)",
+    "title": "Senior Software Engineer, Backend (Card Integrations and Payments Experience)",
     "location": "Remote - Spain",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -140,6 +175,26 @@
   },
   {
     "company": "Affirm",
+    "title": "Senior Software Engineer, Fullstack (Repayments UX)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 130000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040380003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Senior Software Engineer, Mobile (Repayment UX)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -183,7 +238,7 @@
   },
   {
     "company": "Affirm",
-    "title": "Software Engineer II, Backend (Card) ",
+    "title": "Software Engineer II, Backend (Card Integrations and Payments Experience) ",
     "location": "Remote - Spain",
     "remote_type": "remote",
     "employment_type": "full-time",
@@ -232,6 +287,26 @@
   },
   {
     "company": "Affirm",
+    "title": "Software Engineer II, Fullstack (Repayment UX)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
     "title": "Staff Software Engineer, Backend (Card)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -274,6 +349,29 @@
       "Backend Systems"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7931494003",
+    "source": "greenhouse:affirm"
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer, Backend (Recoveries)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 125000,
+    "max_salary_eur": 160000,
+    "hours_risk": "high",
+    "required_years_experience": 7.0,
+    "level": "staff",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "APIs",
+      "Microservices",
+      "Backend Systems"
+    ],
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8034645003",
     "source": "greenhouse:affirm"
   }
 ]
