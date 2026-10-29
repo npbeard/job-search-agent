@@ -1,21 +1,6 @@
 [
   {
     "company": "Twilio",
-    "title": "Machine Learning Engineer",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/7996774",
-    "source": "greenhouse:twilio"
-  },
-  {
-    "company": "Twilio",
     "title": "Staff, Escalations Manager",
     "location": "Remote - Spain",
     "remote_type": "remote",
