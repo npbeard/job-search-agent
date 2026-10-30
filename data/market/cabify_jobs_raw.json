@@ -106,6 +106,21 @@
   },
   {
     "company": "Cabify",
+    "title": "Fleet Operations Leader",
+    "location": "Madrid",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8829910002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Iniciativa de Diversidad e Inclusi\u00f3n \u2013 Certificado de discapacidad de 33%",
     "location": "Madrid",
     "remote_type": "onsite",
@@ -282,21 +297,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8844081002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "T\u00e9cnico/a de N\u00f3minas y Administraci\u00f3n de Personal",
-    "location": "Madrid",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8910973002",
     "source": "greenhouse:cabify"
   }
 ]

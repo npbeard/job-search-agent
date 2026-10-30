@@ -1,21 +1,6 @@
 [
   {
     "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant (UK) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "high",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-uk-orbit-program",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -188,18 +173,18 @@
     "source": "themuse"
   },
   {
-    "company": "UKG",
-    "title": "Integration Consultant",
+    "company": "Kyndryl",
+    "title": "Senior Cybersecurity Consultant - Security Architect",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
+    "min_salary_eur": 85000,
+    "max_salary_eur": 120000,
     "hours_risk": "high",
-    "required_years_experience": 3.0,
-    "level": "mid",
+    "required_years_experience": 5.0,
+    "level": "senior",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/ukg/integration-consultant-c1cacb",
+    "url": "https://www.themuse.com/jobs/kyndryl/senior-cybersecurity-consultant-security-architect",
     "source": "themuse"
   },
   {
