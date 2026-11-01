@@ -218,29 +218,6 @@
     "source": "themuse"
   },
   {
-    "company": "Suntory Global Spirits",
-    "title": "Director Data Engineering",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 85000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "SQL",
-      "ETL",
-      "ELT",
-      "Spark",
-      "Python",
-      "dbt",
-      "Warehouse"
-    ],
-    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/director-data-engineering",
-    "source": "themuse"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Principal Data Software Engineer (Databricks)",
     "location": "Madrid, Spain",
