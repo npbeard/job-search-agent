@@ -1,28 +1,5 @@
 [
   {
-    "company": "Aircall",
-    "title": "Senior Data Engineer - Real time analytics",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "Permanent Full Time Employee",
-    "min_salary_eur": 75000,
-    "max_salary_eur": 100000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "SQL",
-      "ETL",
-      "ELT",
-      "Spark",
-      "Python",
-      "dbt",
-      "Warehouse"
-    ],
-    "url": "https://jobs.lever.co/aircall/944528a4-a3b7-42b8-a044-b0f653ee6f63",
-    "source": "lever:aircall"
-  },
-  {
     "company": "Affirm",
     "title": "Analytics Engineer II, Full Stack (Revenue Analytics)",
     "location": "Remote - Spain",
