@@ -300,6 +300,27 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Engineering Manager - Agents and Context - Platform",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "AWS",
+      "Terraform",
+      "Linux",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8346195&gh_jid=8346195",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Full Stack Engineer - Observability APM UI",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -345,21 +366,6 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8088013&gh_jid=8088013",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Senior Java Engineer - Core/ Infra - Elasticsearch",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8225984&gh_jid=8225984",
     "source": "greenhouse:elastic"
   },
   {
@@ -417,6 +423,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Manager, Endpoint Protections",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161821&gh_jid=8161821",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Senior Product Manager - Self service cloud",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -443,6 +464,21 @@
     "level": "senior",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8187443&gh_jid=8187443",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Security Research Engineer",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8161837&gh_jid=8161837",
     "source": "greenhouse:elastic"
   },
   {
