@@ -1,6 +1,36 @@
 [
   {
     "company": "Cabify",
+    "title": "Accounting Analyst",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8916430002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
+    "title": "Analista contable",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 80000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/cabify/jobs/8919116002",
+    "source": "greenhouse:cabify"
+  },
+  {
+    "company": "Cabify",
     "title": "Business Unit Director - Strategic Fleets",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -94,21 +124,6 @@
     "level": "mid",
     "skills": [],
     "url": "https://job-boards.greenhouse.io/cabify/jobs/8768892002",
-    "source": "greenhouse:cabify"
-  },
-  {
-    "company": "Cabify",
-    "title": "Fleet Development Success - Key Accounts Specialist",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 60000,
-    "max_salary_eur": 80000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [],
-    "url": "https://job-boards.greenhouse.io/cabify/jobs/8901899002",
     "source": "greenhouse:cabify"
   },
   {
