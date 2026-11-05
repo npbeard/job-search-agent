@@ -1,6 +1,21 @@
 [
   {
     "company": "Celonis",
+    "title": "Associate (AI) Solution Consultant (UK) - Orbit Program",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-uk-orbit-program",
+    "source": "themuse"
+  },
+  {
+    "company": "Celonis",
     "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -150,21 +165,6 @@
     "source": "themuse"
   },
   {
-    "company": "Suntory Global Spirits",
-    "title": "Local Financial Controller Associate - Maternity Cover - Based in Madrid",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/local-financial-controller-associate-maternity-cover-based-in-madrid",
-    "source": "themuse"
-  },
-  {
     "company": "Salesforce",
     "title": "AI Builder, Emerging Talent - English Speaking Market",
     "location": "Madrid, Spain",
@@ -255,21 +255,6 @@
     "source": "themuse"
   },
   {
-    "company": "Hitachi Energy",
-    "title": "Control Application Engineer - Power Converters",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/hitachienergy/control-application-engineer-power-converters-7cd09a",
-    "source": "themuse"
-  },
-  {
     "company": "EPAM Systems",
     "title": "Senior Java Developer with R language experience (relocation to Cyprus)",
     "location": "Madrid, Spain",
@@ -285,9 +270,9 @@
     "source": "themuse"
   },
   {
-    "company": "Suntory Global Spirits",
-    "title": "Director Data Engineering",
-    "location": "Madrid, Spain",
+    "company": "Kyndryl",
+    "title": "Data Scientist - Agentic AI",
+    "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
     "min_salary_eur": null,
@@ -296,7 +281,7 @@
     "required_years_experience": null,
     "level": "unknown",
     "skills": [],
-    "url": "https://www.themuse.com/jobs/suntoryglobalspirits/director-data-engineering",
+    "url": "https://www.themuse.com/jobs/kyndryl/data-scientist-agentic-ai-299411",
     "source": "themuse"
   },
   {
@@ -342,66 +327,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/salesforce/engagement-delivery-senior-manager-lsc",
-    "source": "themuse"
-  },
-  {
-    "company": "Kyndryl",
-    "title": "Senior Platform Engineer - Conatainers",
-    "location": "Madrid, Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/kyndryl/senior-platform-engineer-conatainers",
-    "source": "themuse"
-  },
-  {
-    "company": "EPAM Systems",
-    "title": "Lead Java Engineer (algorithms experience) - relocation to Belfast",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/epamsystems/lead-java-engineer-algorithms-experience-relocation-to-belfast-a476b0",
-    "source": "themuse"
-  },
-  {
-    "company": "EPAM Systems",
-    "title": "Senior SAP Functional Consultant (Archiving experience)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/epamsystems/senior-sap-functional-consultant-archiving-experience",
-    "source": "themuse"
-  },
-  {
-    "company": "EPAM Systems",
-    "title": "Senior Business Data Analyst",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/epamsystems/senior-business-data-analyst-54cb75",
     "source": "themuse"
   }
 ]
