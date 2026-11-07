@@ -31,21 +31,6 @@
   },
   {
     "company": "Celonis",
-    "title": "Associate (AI) Solution Consultant (Benelux) - Orbit Program",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/celonis/associate-ai-solution-consultant-benelux-orbit-program-41560d",
-    "source": "themuse"
-  },
-  {
-    "company": "Celonis",
     "title": "Manager of Global Cyber Defense",
     "location": "Madrid, Spain",
     "remote_type": "onsite",
@@ -255,6 +240,36 @@
     "source": "themuse"
   },
   {
+    "company": "Kyndryl",
+    "title": "Azure Cloud Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/kyndryl/azure-cloud-engineer-686614",
+    "source": "themuse"
+  },
+  {
+    "company": "Schneider Electric",
+    "title": "UPS Commissioning Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/schneiderelectric/ups-commissioning-engineer-8e2e13",
+    "source": "themuse"
+  },
+  {
     "company": "EPAM Systems",
     "title": "Principal Data Software Engineer (Databricks)",
     "location": "Madrid, Spain",
@@ -297,21 +312,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://www.themuse.com/jobs/kyndryl/data-scientist-agentic-ai-299411",
-    "source": "themuse"
-  },
-  {
-    "company": "EPAM Systems",
-    "title": "Lead Machine Learning Engineer (relocation to Cyprus)",
-    "location": "Madrid, Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://www.themuse.com/jobs/epamsystems/lead-machine-learning-engineer-relocation-to-cyprus-deb199",
     "source": "themuse"
   }
 ]

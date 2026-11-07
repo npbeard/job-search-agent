@@ -21,5 +21,20 @@
     ],
     "url": "https://www.themuse.com/jobs/epamsystems/senior-data-engineer-palantir-830e26",
     "source": "themuse"
+  },
+  {
+    "company": "Kyndryl",
+    "title": "Azure Cloud Engineer",
+    "location": "Madrid, Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 60000,
+    "max_salary_eur": 85000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://www.themuse.com/jobs/kyndryl/azure-cloud-engineer-686614",
+    "source": "themuse"
   }
 ]

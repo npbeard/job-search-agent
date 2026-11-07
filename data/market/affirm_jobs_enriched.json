@@ -97,49 +97,6 @@
   },
   {
     "company": "Affirm",
-    "title": "Senior Software Engineer, Back-end (Fraud)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 130000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7806679003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
-    "title": "Senior Software Engineer, Backend (Identity International)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 130000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "APIs",
-      "Microservices",
-      "Backend Systems"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7801373003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
     "title": "Senior Software Engineer, Fullstack (Repayments UX)",
     "location": "Remote - Spain",
     "remote_type": "remote",
@@ -176,29 +133,6 @@
       "Linux"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/7799935003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
-    "title": "Software Engineer II, Backend (Card Integrations and Payments Experience) ",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 80000,
-    "max_salary_eur": 105000,
-    "hours_risk": "medium",
-    "required_years_experience": 3.0,
-    "level": "mid",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "APIs",
-      "Microservices",
-      "Backend Systems"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/8006329003",
     "source": "greenhouse:affirm"
   },
   {
@@ -245,29 +179,6 @@
       "Linux"
     ],
     "url": "https://job-boards.greenhouse.io/affirm/jobs/8040394003",
-    "source": "greenhouse:affirm"
-  },
-  {
-    "company": "Affirm",
-    "title": "Staff Software Engineer, Backend (Card)",
-    "location": "Remote - Spain",
-    "remote_type": "remote",
-    "employment_type": "full-time",
-    "min_salary_eur": 125000,
-    "max_salary_eur": 160000,
-    "hours_risk": "high",
-    "required_years_experience": 7.0,
-    "level": "staff",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "APIs",
-      "Microservices",
-      "Backend Systems"
-    ],
-    "url": "https://job-boards.greenhouse.io/affirm/jobs/7820451003",
     "source": "greenhouse:affirm"
   },
   {
