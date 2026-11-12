@@ -270,7 +270,7 @@
   },
   {
     "company": "Elastic",
-    "title": "Sales Development Representative (German speaking)",
+    "title": "Sales Development Representative MENA (Arabic speaking)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
     "employment_type": "full-time",
@@ -280,7 +280,7 @@
     "required_years_experience": 3.0,
     "level": "mid",
     "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8067017&gh_jid=8067017",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8382582&gh_jid=8382582",
     "source": "greenhouse:elastic"
   },
   {
@@ -572,26 +572,6 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8138572&gh_jid=8138572",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Senior Software Engineer - Prism - Security",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 100000,
-    "max_salary_eur": 135000,
-    "hours_risk": "medium",
-    "required_years_experience": 5.0,
-    "level": "senior",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8204978&gh_jid=8204978",
     "source": "greenhouse:elastic"
   },
   {
