@@ -1,6 +1,21 @@
 [
   {
     "company": "Lemon.io",
+    "title": "Senior Data Engineer",
+    "location": "Remote - LATAM, Europe, USA, Canada, APAC",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://remotive.com/remote-jobs/data/senior-data-engineer-2091137",
+    "source": "remotive"
+  },
+  {
+    "company": "Lemon.io",
     "title": "Senior React Full-stack Developer",
     "location": "Remote - LATAM, Europe, USA, Canada, APAC",
     "remote_type": "remote",
