@@ -61,21 +61,6 @@
   },
   {
     "company": "Elastic",
-    "title": "InfoSec Analyst - Business Enablement",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8305381&gh_jid=8305381",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Inside Account Executive (French speaking)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -316,21 +301,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8088013&gh_jid=8088013",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Java Engineer - Core/Infra - Elasticsearch",
     "location": "Spain",
     "remote_type": "onsite",
@@ -522,21 +492,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8229992&gh_jid=8229992",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Software Engineer II - EDR Workflows - Security",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8119456&gh_jid=8119456",
     "source": "greenhouse:elastic"
   },
   {
