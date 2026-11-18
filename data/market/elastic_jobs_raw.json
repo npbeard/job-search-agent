@@ -241,21 +241,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Engineer, Competitive Benchmarking & Performance",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8306618&gh_jid=8306618",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Engineering Manager - Agents and Context - Platform",
     "location": "Spain",
     "remote_type": "onsite",
@@ -267,21 +252,6 @@
     "level": "unknown",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8346195&gh_jid=8346195",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
-    "title": "Senior Full Stack Engineer - Observability APM UI",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8314141&gh_jid=8314141",
     "source": "greenhouse:elastic"
   },
   {
