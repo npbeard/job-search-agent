@@ -196,6 +196,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Renewals Manager (Individual Contributor)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": null,
+    "max_salary_eur": null,
+    "hours_risk": "unknown",
+    "required_years_experience": null,
+    "level": "unknown",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8382870&gh_jid=8382870",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Sales Development Representative - Barcelona (Hybrid)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
