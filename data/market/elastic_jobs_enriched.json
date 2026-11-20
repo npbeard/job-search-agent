@@ -562,6 +562,26 @@
   },
   {
     "company": "Elastic",
+    "title": "Senior Software Engineer (TypeScript) - Marketplaces, SSC",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8372378&gh_jid=8372378",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Software Engineering Manager - Global UX - Applications - Platform",
     "location": "Remote - Spain",
     "remote_type": "onsite",
