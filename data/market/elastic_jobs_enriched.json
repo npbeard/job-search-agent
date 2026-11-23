@@ -129,29 +129,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Principal Software Engineer I - CI/CD - Platform Engineering Productivity",
-    "location": "Remote - Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": 145000,
-    "max_salary_eur": 190000,
-    "hours_risk": "high",
-    "required_years_experience": 9.0,
-    "level": "principal",
-    "skills": [
-      "Python",
-      "Java",
-      "AWS",
-      "Linux",
-      "Terraform",
-      "Kubernetes",
-      "Reliability"
-    ],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8267185&gh_jid=8267185",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Principal Software Engineer (Networking) - Platform Infra ",
     "location": "Remote - Spain",
     "remote_type": "onsite",
@@ -265,6 +242,21 @@
   },
   {
     "company": "Elastic",
+    "title": "Sales Development Representative (German speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8121463&gh_jid=8121463",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
     "title": "Sales Development Representative MENA (Arabic speaking)",
     "location": "Barcelona, Spain",
     "remote_type": "onsite",
@@ -276,6 +268,21 @@
     "level": "mid",
     "skills": [],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8382582&gh_jid=8382582",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Sales Development Representative UKI (English speaking)",
+    "location": "Barcelona, Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 80000,
+    "max_salary_eur": 105000,
+    "hours_risk": "medium",
+    "required_years_experience": 3.0,
+    "level": "mid",
+    "skills": [],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8393157&gh_jid=8393157",
     "source": "greenhouse:elastic"
   },
   {
@@ -518,6 +525,29 @@
       "Linux"
     ],
     "url": "https://jobs.elastic.co/jobs?gh_jid=8138572&gh_jid=8138572",
+    "source": "greenhouse:elastic"
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Software Engineer - Platform Billing Core",
+    "location": "Remote - Spain",
+    "remote_type": "onsite",
+    "employment_type": "full-time",
+    "min_salary_eur": 100000,
+    "max_salary_eur": 135000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [
+      "Python",
+      "Java",
+      "AWS",
+      "Linux",
+      "Terraform",
+      "Kubernetes",
+      "Reliability"
+    ],
+    "url": "https://jobs.elastic.co/jobs?gh_jid=8411235&gh_jid=8411235",
     "source": "greenhouse:elastic"
   },
   {
