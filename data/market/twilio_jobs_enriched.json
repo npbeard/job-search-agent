@@ -1,6 +1,21 @@
 [
   {
     "company": "Twilio",
+    "title": "Senior Strategic Account Executive (Central EMEA)",
+    "location": "Remote - Spain",
+    "remote_type": "remote",
+    "employment_type": "full-time",
+    "min_salary_eur": 85000,
+    "max_salary_eur": 115000,
+    "hours_risk": "medium",
+    "required_years_experience": 5.0,
+    "level": "senior",
+    "skills": [],
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8405811",
+    "source": "greenhouse:twilio"
+  },
+  {
+    "company": "Twilio",
     "title": "Strategic Account Executive (German Speaking)",
     "location": "Remote - Spain",
     "remote_type": "remote",
