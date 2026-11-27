@@ -331,21 +331,6 @@
   },
   {
     "company": "Elastic",
-    "title": "Senior Java Software Engineer - Search Inference - Platform ",
-    "location": "Spain",
-    "remote_type": "onsite",
-    "employment_type": "full-time",
-    "min_salary_eur": null,
-    "max_salary_eur": null,
-    "hours_risk": "unknown",
-    "required_years_experience": null,
-    "level": "unknown",
-    "skills": [],
-    "url": "https://jobs.elastic.co/jobs?gh_jid=8259062&gh_jid=8259062",
-    "source": "greenhouse:elastic"
-  },
-  {
-    "company": "Elastic",
     "title": "Senior Manager, Endpoint Protections",
     "location": "Spain",
     "remote_type": "onsite",
